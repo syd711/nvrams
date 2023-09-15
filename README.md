@@ -66,7 +66,7 @@ List of available and missing nvrams:
 | Addams Family, The (L-3) | Addams Family, The (L-3) | taf_l3.nv |  |  |
 | Addams Family, The (L-4) | Addams Family, The (L-4) | taf_l4.nv |  |  |
 | Addams Family, The (L-5 Prototype D-7 LED Ghost Fix) | Addams Family, The (L-5 Prototype D-7 LED Ghost Fix) | taf_d7.nv |  |  |
-| taf_l7.nv | YES | ED209 |
+Addams Family, The (L-5 Prototype L-7) | | taf_l7.nv | YES | ED209 |
 | Addams Family, The (L-5) | Addams Family, The (L-5) | taf_l5.nv |  |  |
 | Addams Family, The (L-5C Competition + LED Ghost MOD) | Addams Family, The (L-5C Competition + LED Ghost MOD) | taf_l5c.nv |  |  |
 | Addams Family, The (L-6) | Addams Family, The (L-6) | taf_l6.nv |  |  |
@@ -156,8 +156,8 @@ List of available and missing nvrams:
 | Avatar Limited Edition (V1.2) | Avatar Limited Edition (V1.2) | avr_120h.nv |  |  |
 | Avengers, The (V1.1) | Avengers, The (V1.1) | avs_110.nv |  |  |
 | Avengers, The (V1.4) | Avengers, The (V1.4) | avs_140.nv |  |  |
-| avs_170c.nv | YES | ED209 |
-| avs_170.nv | YES | ED209 |
+Avengers, The (V1.7) (Colored MOD) | | avs_170c.nv | YES | ED209 |
+Avengers, The (V1.7) | | avs_170.nv | YES | ED209 |
 | Avengers, The Limited Edition (V1.2) | Avengers, The Limited Edition (V1.2) | avs_120h.nv |  |  |
 | Avengers, The Limited Edition (V1.4) | Avengers, The Limited Edition (V1.4) | avs_140h.nv |  |  |
 | Avengers, The Limited Edition (V1.7) (Colored MOD) | Avengers, The Limited Edition (V1.7) (Colored MOD) | avs_170hc.nv |  |  |
@@ -325,7 +325,7 @@ List of available and missing nvrams:
 | Bow & Arrow (Prototype, rev. 22) | Bow & Arrow (Prototype, rev. 22) | bowarroa.nv |  |  |
 | Bow & Arrow (Prototype, rev. 23) | Bow & Arrow (Prototype, rev. 23) | bowarrow.nv |  |  |
 | Bram Stoker's Dracula (D-1 LED Ghost Fix) | Bram Stoker's Dracula (D-1 LED Ghost Fix) | drac_d1.nv |  |  |
-| drac_l1.nv | YES | ED209 |
+Bram Stoker's Dracula (L-1) | | drac_l1.nv | YES | ED209 |
 | Bram Stoker's Dracula (L-2C Competition MOD) | Bram Stoker's Dracula (L-2C Competition MOD) | drac_l2c.nv |  |  |
 | Bram Stoker's Dracula (P-11 Prototype) | Bram Stoker's Dracula (P-11 Prototype) | drac_p11.nv |  |  |
 | Bram Stoker's Dracula (P-12 LED Ghost Fix) | Bram Stoker's Dracula (P-12 LED Ghost Fix) | drac_p12.nv |  |  |
@@ -882,7 +882,7 @@ List of available and missing nvrams:
 | Granny and the Gators (Video/Pinball Combo) | Granny and the Gators (Video/Pinball Combo) | granny.nv |  |  |
 | Guns N' Roses (3.00 Dutch) | Guns N' Roses (3.00 Dutch) | gnr_300d.nv |  |  |
 | Guns N' Roses (3.00 French) | Guns N' Roses (3.00 French) | gnr_300f.nv |  |  |
-| gnr_300.nv | YES | ED209 |
+Guns N' Roses (3.00) | | gnr_300.nv | YES | ED209 |
 | Halley Comet (alternate set) | Halley Comet (alternate set) | halleya.nv |  |  |
 | Halley Comet | Halley Comet | halley.nv |  |  |
 | Hang-On | Hang-On | hangon.nv |  |  |
@@ -1929,7 +1929,7 @@ List of available and missing nvrams:
 | Space Riders | Space Riders | spcrider.nv |  |  |
 | Space Ship | Space Ship | spcship.nv |  |  |
 | Space Shuttle (L-3) | Space Shuttle (L-3) | sshtl_l3.nv |  |  |
-| sshtl_l7.nv | YES | ED209 |
+Space Shuttle (L-7) | | sshtl_l7.nv | YES | ED209 |
 | Space Shuttle (Taito) (alternate set) | Space Shuttle (Taito) (alternate set) | sshuttl1.nv |  |  |
 | Space Shuttle (Taito) | Space Shuttle (Taito) | sshuttle.nv |  |  |
 | Space Shuttle (Zaccaria) | Space Shuttle (Zaccaria) | sshtlzac.nv |  |  |
@@ -1996,8 +1996,8 @@ List of available and missing nvrams:
 | Spider-Man (V2.62) (MOD with replaced music) | Spider-Man (V2.62) (MOD with replaced music) | sman_262.nv |  |  |
 | Spider-Man Vault Edition (V1.0) (Colored MOD) | Spider-Man Vault Edition (V1.0) (Colored MOD) | smanve_100c.nv |  |  |
 | Spider-Man Vault Edition (V1.0) | Spider-Man Vault Edition (V1.0) | smanve_100.nv |  |  |
-| smanve_101c.nv | YES | ED209 |
-| smanve_101.nv | YES | ED209 |
+Spider-Man Vault Edition (V1.01) (Colored MOD) | | smanve_101c.nv | YES | ED209 |
+Spider-Man Vault Edition (V1.01) | | smanve_101.nv | YES | ED209 |
 | Spirit of 76 | Spirit of 76 | spirit76.nv |  |  |
 | Spirit | Spirit | spirit.nv |  |  |
 | Split Second (Free Play) | Split Second (Free Play) | splitsfp.nv |  |  |
@@ -2475,7 +2475,7 @@ List of available and missing nvrams:
 | Wheel of Fortune (V5.0) | Wheel of Fortune (V5.0) | wof_500.nv |  |  |
 | Wheel of Fortune (V6.02 Home Rom) | Wheel of Fortune (V6.02 Home Rom) | wof_602h.nv |  |  |
 | Whirlwind (L-2) | Whirlwind (L-2) | whirl_l2.nv |  |  |
-| whirl_l3.nv | YES | ED209 |
+Whirlwind (L-3) | | whirl_l3.nv | YES | ED209 |
 | Whirlwind (LG-3 German) | Whirlwind (LG-3 German) | whirl_g3.nv |  |  |
 | White Force | White Force | whtforce.nv |  |  |
 | White Water (D-2 LED Ghost Fix) | White Water (D-2 LED Ghost Fix) | ww_d2.nv |  |  |
