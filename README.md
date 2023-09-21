@@ -820,7 +820,7 @@ List of available and missing nvrams:
 | Global Warfare | gwarfare.nv |  |  |
 | Godzilla (0.90 Prototype) | godz_090.nv |  |  |
 | Godzilla (1.00) | godz_100.nv |  |  |
-| Godzilla (2.05) | godzilla.nv |  |  |
+| Godzilla (2.05) | godzilla.nv | YES | Syd711 |
 | Goin' Nuts | goinnuts.nv |  |  |
 | Gold Ball (6/7-digit alternate set rev. 12) | goldbalc.nv |  |  |
 | Gold Ball (7-digit conversion) | goldbalb.nv |  |  |
