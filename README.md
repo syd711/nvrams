@@ -1739,7 +1739,7 @@ List of available and missing nvrams:
 | RollerCoaster Tycoon (7.02 German) | rctycng.nv |  |  |
 | RollerCoaster Tycoon (7.02 Italian) | rctycni.nv |  |  |
 | RollerCoaster Tycoon (7.02 Spanish) | rctycnl.nv |  |  |
-| RollerCoaster Tycoon (7.02) | rctycn.nv |  |  |
+| RollerCoaster Tycoon (7.02) | rctycn.nv | YES | Syd711 |
 | Rollergames (AD-2 Prototype) | rollr_d2.nv |  |  |
 | Rollergames (EXPERIMENTAL) | rollr_ex.nv |  |  |
 | Rollergames (L-2) | rollr_l2.nv |  |  |
