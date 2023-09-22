@@ -4,6 +4,7 @@ avs_170
 drac_l1
 godzilla
 gnr_300
+rctycn
 sshtl_l7
 smanve_101c
 smanve_101
