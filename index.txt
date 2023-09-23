@@ -3,6 +3,7 @@ austin
 avs_170c
 avs_170
 drac_l1
+cv_20h
 godzilla
 gldneye
 gnr_300
