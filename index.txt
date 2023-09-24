@@ -1,4 +1,5 @@
 taf_l7
+apollo13
 afm_113b
 austin
 avr_200
@@ -7,13 +8,17 @@ avs_170
 drac_l1
 cc_13
 cv_20h
+congo_21
 cftbl_l4
 godzilla
 gldneye
 gnr_300
 jm_12r
 lotr
+mb_106b
 rctycn
+ss_15
+simpprty
 sshtl_l7
 sman_261
 smanve_101c
