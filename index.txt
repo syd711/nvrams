@@ -9,6 +9,10 @@ gldneye
 gnr_300
 rctycn
 sshtl_l7
+sman_261
 smanve_101c
 smanve_101
+sttng_l7
+totan_14
+tom_14hb
 whirl_l3
