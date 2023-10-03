@@ -800,7 +800,7 @@ List of available and missing nvrams:
 | Getaway: High Speed II, The (L-1) | gw_l1.nv |  |  |
 | Getaway: High Speed II, The (L-2) | gw_l2.nv |  |  |
 | Getaway: High Speed II, The (L-3) | gw_l3.nv |  |  |
-| Getaway: High Speed II, The (L-5) | gw_l5.nv |  |  |
+| Getaway: High Speed II, The (L-5) | gw_l5.nv | YES |  |
 | Getaway: High Speed II, The (L-5C Competition MOD) | gw_l5c.nv |  |  |
 | Getaway: High Speed II, The (P-7 Prototype) | gw_p7.nv |  |  |
 | Getaway: High Speed II, The (P-8 LED Ghost Fix) | gw_p8.nv |  |  |

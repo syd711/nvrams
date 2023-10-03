@@ -10,6 +10,7 @@ cc_13
 cv_20h
 congo_21
 cftbl_l4
+gw_l5
 godzilla
 gldneye
 gnr_300
