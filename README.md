@@ -1440,7 +1440,7 @@ List of available and missing nvrams:
 | No Fear: Dangerous Sports (2.2) | nf_22.nv |  |  |
 | No Fear: Dangerous Sports (2.3) | nf_23.nv |  |  |
 | No Fear: Dangerous Sports (2.3F French) | nf_23f.nv |  |  |
-| No Fear: Dangerous Sports (2.3X) | nf_23x.nv |  |  |
+| No Fear: Dangerous Sports (2.3X) | nf_23x.nv | YES |  |
 | No Good Gofers (1.0) | ngg_10.nv |  |  |
 | No Good Gofers (1.2) | ngg_12.nv |  |  |
 | No Good Gofers (1.3) | ngg_13.nv |  |  |
