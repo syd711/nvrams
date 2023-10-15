@@ -2446,7 +2446,7 @@ List of available and missing nvrams:
 | Walking Dead, The Limited Edition (V1.41) | twd_141h.nv |  |  |
 | Walking Dead, The Limited Edition (V1.53) | twd_153h.nv |  |  |
 | Walking Dead, The Limited Edition (V1.56) (Colored MOD) | twd_156hc.nv |  |  |
-| Walking Dead, The Limited Edition (V1.56) | twd_156h.nv |  |  |
+| Walking Dead, The Limited Edition (V1.56) | twd_156h.nv | YES |  |
 | Walking Dead, The Limited Edition (V1.60.0) (Colored MOD) | twd_160hc.nv |  |  |
 | Walking Dead, The Limited Edition (V1.60.0) | twd_160h.nv |  |  |
 | Walkyria | walkyria.nv |  |  |
