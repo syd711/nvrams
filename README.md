@@ -9,7 +9,7 @@ List of available and missing nvrams:
 | 24 (V1.3) | twenty4_130.nv |  |  |
 | 24 (V1.4) | twenty4_140.nv |  |  |
 | 24 (V1.44) | twenty4_144.nv |  |  |
-| 24 (V1.5) | twenty4_150.nv |  |  |
+| 24 (V1.5) | twenty4_150.nv | YES |  |
 | 250 c.c. | ind250cc.nv |  |  |
 | 301/Bullseye (normal pinball scoring) | bullseyn.nv |  |  |
 | 301/Bullseye | bullseye.nv |  |  |
