@@ -76,6 +76,7 @@ ripleys
 rctycn
 ss_15
 ts_lx5
+shr_141
 simpprty
 sorcr_l2
 sshtl_l7
