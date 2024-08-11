@@ -82,20 +82,20 @@ List of available and missing nvrams:
 | Airborne | abv106.nv | YES | gorgatron    |
 | Al Capone | alcapone.nv |  |  |
 | Al's Garage Band Goes On a World Tour (R01c) | wrldtour.nv |  |  |
-| Al's Garage Band Goes On a World Tour (R02b) | wrldtou2.nv |  |  |
+| Al's Garage Band Goes On a World Tour (R02b) | wrldtou2.nv | YES | gorgatron |
 | Al's Garage Band Goes On a World Tour (R06a Prototype) | wrldtou3.nv |  |  |
-| Algar (L-1) | algar_l1.nv |  |  |
+| Algar (L-1) | algar_l1.nv | YES | gorgatron |
 | Ali (Free Play) | alifp.nv |  |  |
 | Ali | ali.nv |  |  |
 | Alien Poker (L-2) | alpok_l2.nv |  |  |
 | Alien Poker (L-6) | alpok_l6.nv |  |  |
 | Alien Poker (L-6, French Speech) | alpok_f6.nv |  |  |
-| Alien Poker (L-6, Multiball conversion) | alpok_b6.nv |  |  |
-| Alien Star | alienstr.nv |  |  |
+| Alien Poker (L-6, Multiball conversion) | alpok_b6.nv | YES | gorgatron |
+| Alien Star | alienstr.nv | YES | gorgatron |
 | Alien Warrior | alienwar.nv |  |  |
 | Alley Cats (Shuffle) (L-7) | alcat_l7.nv |  |  |
-| Amazing Spider-Man, The (7-digit conversion) | spiderm7.nv |  |  |
-| Amazing Spider-Man, The | spidermn.nv |  |  |
+| Amazing Spider-Man, The (7-digit conversion) | spiderm7.nv | YES | gorgatron |
+| Amazing Spider-Man, The | spidermn.nv | YES | gorgatron |
 | Amazon Hunt (alternate set) | amazonha.nv |  |  |
 | Amazon Hunt II (French Free Play) | amazn2fp.nv |  |  |
 | Amazon Hunt II (French) | amazonh2.nv |  |  |
@@ -103,7 +103,7 @@ List of available and missing nvrams:
 | Amazon Hunt III (French) | amazonh3.nv |  |  |
 | Amazon Hunt III (rev. 1 French Free Play) | amaz3afp.nv |  |  |
 | Amazon Hunt III (rev. 1) | amazon3a.nv |  |  |
-| Amazon Hunt | amazonh.nv |  |  |
+| Amazon Hunt | amazonh.nv | YES | gorgatron |
 | America 1492 | america.nv |  |  |
 | Andromeda (alternate set) | andromea.nv |  |  |
 | Andromeda | andromed.nv |  |  |
@@ -121,7 +121,7 @@ List of available and missing nvrams:
 | Arena (German) | arenag.nv |  |  |
 | Arena (rev. 1 Free Play) | arenaafp.nv |  |  |
 | Arena (rev. 1) | arenaa.nv |  |  |
-| Arena | arena.nv |  |  |
+| Arena | arena.nv | YES | gorgatron |
 | Aristocrat (Shuffle) (L-1) | arist_l1.nv |  |  |
 | Arizona | arizona.nv |  |  |
 | Asteroid Annie and the Aliens | astannie.nv |  |  |
@@ -163,7 +163,7 @@ List of available and missing nvrams:
 | Avengers, The Limited Edition (V1.7) (Colored MOD) | avs_170hc.nv |  |  |
 | Avengers, The Limited Edition (V1.7) | avs_170h.nv |  |  |
 | BMX (Free Play) | bmxa.nv |  |  |
-| BMX | bmx.nv |  |  |
+| BMX | bmx.nv | YES | gorgatron |
 | Baby Pac-Man (Video/Pinball Combo) | babypac.nv |  |  |
 | Baby Pac-Man (Video/Pinball Combo, Home Rom) | babypacn.nv |  |  |
 | Baby Pac-Man (Video/Pinball Combo, Updated U9) | babypaca.nv |  |  |
@@ -179,14 +179,14 @@ List of available and missing nvrams:
 | Bad Girls (French) | badgirlf.nv |  |  |
 | Bad Girls (German Free Play) | badgrgfp.nv |  |  |
 | Bad Girls (German) | badgirlg.nv |  |  |
-| Bad Girls | badgirls.nv |  |  |
+| Bad Girls | badgirls.nv | YES | gorgatron |
 | Banzai Run (G-3 German) | bnzai_g3.nv |  |  |
 | Banzai Run (L-1) | bnzai_l1.nv |  |  |
 | Banzai Run (L-3 Target sound fix) | bnzai_t3.nv |  |  |
-| Banzai Run (L-3) | bnzai_l3.nv |  |  |
+| Banzai Run (L-3) | bnzai_l3.nv | YES | gorgatron |
 | Banzai Run (P-A Prototype) | bnzai_pa.nv |  |  |
 | Barb Wire | barbwire.nv | YES | gorgatron    |
-| Barracora (L-1) | barra_l1.nv |  |  |
+| Barracora (L-1) | barra_l1.nv | YES | gorgatron |
 | Basketball | bsktball.nv |  |  |
 | Batman (1.01) | btmn_101.nv |  |  |
 | Batman (1.03 French) | btmn_f13.nv |  |  |
@@ -244,7 +244,7 @@ List of available and missing nvrams:
 | Big Game (MOD rev. 7) | biggameb.nv |  |  |
 | Big Game | biggame.nv |  |  |
 | Big Guns (L-7) | bguns_l7.nv |  |  |
-| Big Guns (L-8) | bguns_l8.nv |  |  |
+| Big Guns (L-8) | bguns_l8.nv | YES | gorgatron |
 | Big Guns (L-A) | bguns_la.nv |  |  |
 | Big Guns (L-AC Competition MOD) | bguns_lac.nv |  |  |
 | Big Guns (P-1 Prototype) | bguns_p1.nv |  |  |
@@ -253,8 +253,8 @@ List of available and missing nvrams:
 | Big House (French) | bighousf.nv |  |  |
 | Big House (German Free Play) | bighsgfp.nv |  |  |
 | Big House (German) | bighousg.nv |  |  |
-| Big House | bighouse.nv |  |  |
-| Big Hurt (rev. 3) | bighurt.nv |  |  |
+| Big House | bighouse.nv | YES | gorgatron |
+| Big Hurt (rev. 3) | bighurt.nv | YES | gorgatron |
 | Big Strike (Shuffle) (L-1) | bstrk_l1.nv |  |  |
 | Big Town | bigtown.nv |  |  |
 | Bike Race (2-ball play) | bikerac2.nv |  |  |
@@ -271,7 +271,7 @@ List of available and missing nvrams:
 | Black Belt (Zaccaria, Italian Speech, Free Play) | bbeltifp.nv |  |  |
 | Black Belt | blackblt.nv |  |  |
 | Black Fever | blkfever.nv |  |  |
-| Black Hole (7-digit conversion) | blkhole7.nv |  |  |
+| Black Hole (7-digit conversion) | blkhole7.nv | YES | gorgatron |
 | Black Hole (LTD) | bhol_ltd.nv |  |  |
 | Black Hole (Sound Only) | blkholea.nv |  |  |
 | Black Hole (Sound Only, 7-digit conversion) | blkhol7s.nv |  |  |
@@ -280,7 +280,7 @@ List of available and missing nvrams:
 | Black Jack (Free Play) | blackjcb.nv |  |  |
 | Black Jack (Free Play+) | blackjcd.nv |  |  |
 | Black Jack (Saucer points modification) | blackjcc.nv |  |  |
-| Black Jack | blackjck.nv |  |  |
+| Black Jack | blackjck.nv | YES | gorgatron |
 | Black Knight (L-3) | bk_l3.nv |  |  |
 | Black Knight (L-4) | bk_l4.nv | YES | gorgatron    |
 | Black Knight (L-4, French Speech) | bk_f4.nv |  |  |
@@ -293,7 +293,7 @@ List of available and missing nvrams:
 | Black Knight 2000 (PF-1 Prototype French) | bk2k_pf1.nv |  |  |
 | Black Knight 2000 (PU-1 Prototype Europe) | bk2k_pu1.nv |  |  |
 | Black Pyramid (Free Play) | blakpyrb.nv |  |  |
-| Black Pyramid | blakpyra.nv |  |  |
+| Black Pyramid | blakpyra.nv | YES | gorgatron |
 | Black Rose (D-1 LED Ghost Fix) | br_d1.nv |  |  |
 | Black Rose (D-3 LED Ghost Fix) | br_d3.nv |  |  |
 | Black Rose (D-4 LED Ghost Fix) | br_d4.nv |  |  |
@@ -304,7 +304,7 @@ List of available and missing nvrams:
 | Black Rose (P-18 LED Ghost Fix) | br_p18.nv |  |  |
 | Black Sheep Squadron | blkshpsq.nv |  |  |
 | Black Velvet | blvelvet.nv |  |  |
-| Blackout (L-1) | blkou_l1.nv |  |  |
+| Blackout (L-1) | blkou_l1.nv | YES | gorgatron |
 | Blackout (L-1, French Speech) | blkou_f1.nv |  |  |
 | Blackout (T-1 Ted Estes) | blkou_t1.nv |  |  |
 | Blackwater 100 (Single Ball Play) | black10s.nv |  |  |
@@ -315,13 +315,13 @@ List of available and missing nvrams:
 | Bone Busters Inc. (French) | bonebstf.nv |  |  |
 | Bone Busters Inc. (German Free Play) | bonebgfp.nv |  |  |
 | Bone Busters Inc. (German) | bonebstg.nv |  |  |
-| Bone Busters Inc. | bonebstr.nv |  |  |
+| Bone Busters Inc. | bonebstr.nv | YES | gorgatron |
 | Boomerang (Bugfixes patch) | boomranb.nv |  |  |
 | Boomerang (Engineering Prototype, patched patent code) | boomrang.nv |  |  |
 | Bounty Hunter (Free Play) | bounthfp.nv |  |  |
 | Bounty Hunter (German Free Play) | bountgfp.nv |  |  |
 | Bounty Hunter (German) | bountyhg.nv |  |  |
-| Bounty Hunter | bountyh.nv |  |  |
+| Bounty Hunter | bountyh.nv | YES | gorgatron |
 | Bow & Arrow (Prototype, rev. 22) | bowarroa.nv |  |  |
 | Bow & Arrow (Prototype, rev. 23) | bowarrow.nv |  |  |
 | Bram Stoker's Dracula (D-1 LED Ghost Fix) | drac_d1.nv |  |  |
@@ -339,8 +339,8 @@ List of available and missing nvrams:
 | Break | break.nv |  |  |
 | Brooks & Dunn (rev. T1) | brooks.nv |  |  |
 | Bubba the Redneck Werewolf (Hollywood Heat unofficial MOD) | bubba.nv |  |  |
-| Buck Rogers | buckrgrs.nv |  |  |
-| Bugs Bunny's Birthday Ball (L-2) | bbnny_l2.nv |  |  |
+| Buck Rogers | buckrgrs.nv | YES | gorgatron |
+| Bugs Bunny's Birthday Ball (L-2) | bbnny_l2.nv | YES | gorgatron |
 | Bugs Bunny's Birthday Ball (LU-2 Europe) | bbnny_lu.nv |  |  |
 | Bushido (alternate set) | bushidoa.nv |  |  |
 | Bushido | bushido.nv |  |  |
@@ -350,18 +350,18 @@ List of available and missing nvrams:
 | CSI: Crime Scene Investigation (V2.0) | csi_200.nv |  |  |
 | CSI: Crime Scene Investigation (V2.1) | csi_210.nv |  |  |
 | CSI: Crime Scene Investigation (V2.3) | csi_230.nv |  |  |
-| CSI: Crime Scene Investigation (V2.4) | csi_240.nv |  |  |
+| CSI: Crime Scene Investigation (V2.4) | csi_240.nv | YES | gorgatron |
 | Cactus Canyon (1.0) | cc_10.nv |  |  |
 | Cactus Canyon (1.04 Test 0.2) | cc_104.nv |  |  |
 | Cactus Canyon (1.2) | cc_12.nv |  |  |
 | Cactus Canyon (1.3 Real Knocker patch) | cc_13k.nv |  |  |
 | Cactus Canyon (1.3) | cc_13.nv | YES       | Syd711       |
-| Cactus Jack's | cactjack.nv |  |  |
+| Cactus Jack's | cactjack.nv | YES | gorgatron |
 | Camel Lights | camlight.nv |  |  |
 | Canasta '86' (Free Play) | canastfp.nv |  |  |
 | Canasta '86' | canasta.nv |  |  |
 | Captain Hook | cpthook.nv |  |  |
-| Car Hop | carhop.nv |  |  |
+| Car Hop | carhop.nv | YES | gorgatron |
 | Caribbean Cruise | ccruise.nv |  |  |
 | Catacomb (Free Play) | catacofp.nv |  |  |
 | Catacomb | catacomb.nv |  |  |
@@ -370,19 +370,19 @@ List of available and missing nvrams:
 | Cavaleiro Negro | cavnegro.nv |  |  |
 | Caveman (Pinball/Video Combo) (Evolution, unofficial MOD) | cavemane.nv |  |  |
 | Caveman (Pinball/Video Combo) (set 2) | cavemana.nv |  |  |
-| Caveman (Pinball/Video Combo) | caveman.nv |  |  |
+| Caveman (Pinball/Video Combo) | caveman.nv | YES | gorgatron |
 | Centaur (Free Play rev. 27) | centaurb.nv |  |  |
 | Centaur (Free Play) | centaura.nv |  |  |
 | Centaur (Inder) | centauri.nv |  |  |
 | Centaur (Inder, alternate set) | centaurj.nv |  |  |
-| Centaur | centaur.nv |  |  |
+| Centaur | centaur.nv | YES | gorgatron |
 | Cerberus | cerberus.nv |  |  |
 | Champion Pub, The (1.5) | cp_15.nv |  |  |
 | Champion Pub, The (1.6 Pinball FX) | cp_16pfx.nv |  |  |
 | Champion Pub, The (1.6) | cp_16.nv | YES | DoXer        |
 | Champion | champion.nv |  |  |
 | Chance | chance.nv |  |  |
-| Charlie's Angels | charlies.nv |  |  |
+| Charlie's Angels | charlies.nv | YES | gorgatron |
 | Checkpoint (1.7) | ckpt_a17.nv | YES | gorgatron    |
 | Cheetah (Black cabinet Bonus shot 1/ball) | cheetah2.nv |  |  |
 | Cheetah (Black cabinet Bonus shot 1/game) | cheetah1.nv |  |  |
@@ -397,7 +397,7 @@ List of available and missing nvrams:
 | Chicago Cubs Triple Play | triplay.nv |  |  |
 | Chuck-A-Luck | chucklck.nv |  |  |
 | Circa 1933 | circa33.nv |  |  |
-| Circus (7-digit conversion) | circus7.nv |  |  |
+| Circus (7-digit conversion) | circus7.nv | YES | gorgatron |
 | Circus | circus.nv |  |  |
 | Cirqus Voltaire (1.0) | cv_10.nv |  |  |
 | Cirqus Voltaire (1.1) | cv_11.nv |  |  |
@@ -408,7 +408,7 @@ List of available and missing nvrams:
 | Cirqus Voltaire (D.52 Prototype) | cv_d52.nv |  |  |
 | City Slicker | cityslck.nv |  |  |
 | Clash, The (Rock Encore unofficial MOD) | clash.nv |  |  |
-| Class of 1812 | clas1812.nv |  |  |
+| Class of 1812 | clas1812.nv | YES | gorgatron |
 | Cleopatra | cleoptra.nv |  |  |
 | Close Encounters of the Third Kind | closeenc.nv |  |  |
 | Clown (Free Play) | clownfp.nv |  |  |
@@ -420,7 +420,7 @@ List of available and missing nvrams:
 | Columbia | columbia.nv |  |  |
 | Come Back | comeback.nv |  |  |
 | Comet (L-4) | comet_l4.nv |  |  |
-| Comet (L-5) | comet_l5.nv |  |  |
+| Comet (L-5) | comet_l5.nv | YES | gorgatron |
 | Coney Island! | coneyis.nv |  |  |
 | Congo (1.1) | congo_11.nv |  |  |
 | Congo (1.1, DCS-Sound 1.0) | congo_11s10.nv |  |  |
@@ -432,7 +432,7 @@ List of available and missing nvrams:
 | Continental (Bingo, alternate version) | cntintl2.nv |  |  |
 | Corsario (Free Play) | corsarfp.nv |  |  |
 | Corsario | corsario.nv |  |  |
-| Corvette (2.1) | corv_21.nv |  |  |
+| Corvette (2.1) | corv_21.nv | YES | gorgatron |
 | Corvette (DX-1 LED Ghost Fix) | corv_dx1.nv |  |  |
 | Corvette (FreeWPC 0.61) | corv_f61.nv |  |  |
 | Corvette (LA-1) | corv_la1.nv |  |  |
@@ -443,13 +443,13 @@ List of available and missing nvrams:
 | Corvette (PX-5 LED Ghost Fix) | corv_px5.nv |  |  |
 | Cosmic Flash (NSM) | cosflnsm.nv |  |  |
 | Cosmic Flash | cosflash.nv |  |  |
-| Cosmic Gunfight (L-1) | csmic_l1.nv |  |  |
+| Cosmic Gunfight (L-1) | csmic_l1.nv | YES | gorgatron |
 | Cosmic Princess (Free Play) | princefp.nv |  |  |
-| Cosmic Princess | princess.nv |  |  |
+| Cosmic Princess | princess.nv | YES | gorgatron |
 | Cosmic | cosmic.nv |  |  |
 | Count-Down | countdwn.nv |  |  |
 | Counterforce (7-digit conversion) | cntforc7.nv |  |  |
-| Counterforce | cntforce.nv |  |  |
+| Counterforce | cntforce.nv | YES | gorgatron |
 | Cowboy Eight Ball (alternate set) | cowboy3a.nv |  |  |
 | Cowboy Eight Ball 2 | cowboy.nv |  |  |
 | Cowboy Eight Ball | cowboy3p.nv |  |  |
@@ -465,14 +465,14 @@ List of available and missing nvrams:
 | Cue (Prototype) | cue.nv |  |  |
 | Cue Ball Wizard (rev. 2) | cueball2.nv |  |  |
 | Cue Ball Wizard (rev. 3) | cueball3.nv |  |  |
-| Cue Ball Wizard | cueball.nv |  |  |
+| Cue Ball Wizard | cueball.nv | YES | gorgatron |
 | Cut The Cheese (Redemption) | ctcheese.nv |  |  |
 | Cut The Cheese Deluxe (Redemption) | ctchzdlx.nv |  |  |
 | Cybernaut (Free Play) | cybrnaua.nv |  |  |
-| Cybernaut | cybrnaut.nv |  |  |
+| Cybernaut | cybrnaut.nv | YES | gorgatron |
 | Cyclone (L-1) | cycln_l1.nv |  |  |
 | Cyclone (L-4) | cycln_l4.nv |  |  |
-| Cyclone (L-5) | cycln_l5.nv |  |  |
+| Cyclone (L-5) | cycln_l5.nv | YES | gorgatron |
 | Cyclopes (11/85) | cyclope1.nv |  |  |
 | Cyclopes (12/85) | cyclopes.nv |  |  |
 | Dakar | dakar.nv |  |  |
@@ -480,7 +480,7 @@ List of available and missing nvrams:
 | Dark Shadow | darkshad.nv |  |  |
 | Data East Leon Test Chip (version 4) | deleontest4.nv |  |  |
 | Data East Test Chip | detest.nv |  |  |
-| Deadly Weapon | deadweap.nv |  |  |
+| Deadly Weapon | deadweap.nv | YES | gorgatron |
 | Defender (L-4) | dfndr_l4.nv | YES | gorgatron    |
 | Demolition Man (DA-1 LED Ghost Fix) | dm_da1.nv |  |  |
 | Demolition Man (DH-5 LED Ghost Fix) | dm_dh5.nv |  |  |
@@ -511,15 +511,15 @@ List of available and missing nvrams:
 | Devil Riders (Italian Speech, Free Play) | dvlrdifp.nv |  |  |
 | Devil Riders | dvlrider.nv |  |  |
 | Devil's Dare (Sound Only) | dvlsdre2.nv |  |  |
-| Devil's Dare | dvlsdre.nv |  |  |
+| Devil's Dare | dvlsdre.nv | YES | gorgatron |
 | Diamond Lady (Free Play) | diamonfp.nv |  |  |
 | Diamond Lady (French Free Play) | diamnffp.nv |  |  |
 | Diamond Lady (French) | diamondf.nv |  |  |
 | Diamond Lady (German Free Play) | diamngfp.nv |  |  |
 | Diamond Lady (German) | diamondg.nv |  |  |
-| Diamond Lady | diamond.nv |  |  |
+| Diamond Lady | diamond.nv | YES | gorgatron |
 | Diner (LA-3) | diner_l3.nv |  |  |
-| Diner (LA-4) | diner_l4.nv |  |  |
+| Diner (LA-4) | diner_l4.nv | YES | gorgatron |
 | Diner (LF-2 French) | diner_f2.nv |  |  |
 | Diner (LU-1 Europe) | diner_l1.nv |  |  |
 | Diner (LU-2 Europe) | diner_l2.nv |  |  |
@@ -527,11 +527,11 @@ List of available and missing nvrams:
 | Dinosaur Eggs (R02) | dinoeggs.nv |  |  |
 | Dirty Harry (DX-2 LED Ghost Fix) | dh_dx2.nv |  |  |
 | Dirty Harry (LF-2 French) | dh_lf2.nv |  |  |
-| Dirty Harry (LX-2) | dh_lx2.nv |  |  |
+| Dirty Harry (LX-2) | dh_lx2.nv | YES | gorgatron |
 | Disco '79 | disco79.nv |  |  |
 | Disco Dancing | discodan.nv |  |  |
 | Disco Fever (L-1) | disco_l1.nv |  |  |
-| Dolly Parton (7-digit conversion) | dollyptb.nv |  |  |
+| Dolly Parton (7-digit conversion) | dollyptb.nv | YES | gorgatron |
 | Dolly Parton | dollyptn.nv |  |  |
 | Dr. Dude (LA-2) | dd_l2.nv | YES | gorgatron    |
 | Dr. Dude (LA-3C Competition MOD) | dd_l3c.nv |  |  |
@@ -547,7 +547,7 @@ List of available and missing nvrams:
 | Dr. Who (P-6 LED Ghost Fix) | dw_p6.nv |  |  |
 | Dracula (Free Play) | draculfp.nv |  |  |
 | Dracula | dracula.nv |  |  |
-| Dragon | dragon.nv |  |  |
+| Dragon | dragon.nv | YES | gorgatron |
 | Dragonfist (Drop Target Score patch 2) | dragfib2.nv |  |  |
 | Dragonfist (Drop Target Score patch) | dragfisb.nv |  |  |
 | Dragonfist (Free Play) | dragfifp.nv |  |  |
@@ -566,7 +566,7 @@ List of available and missing nvrams:
 | Earthshaker (PA-4 Prototype) | esha_pa4.nv |  |  |
 | Earthshaker (PR-4 Family version) | esha_pr4.nv |  |  |
 | Eclipse (7-digit conversion) | eclipse7.nv |  |  |
-| Eclipse | eclipse.nv |  |  |
+| Eclipse | eclipse.nv | YES | gorgatron |
 | Eight Ball (Free Play) | eightblb.nv |  |  |
 | Eight Ball (Free Play+) | eightblc.nv |  |  |
 | Eight Ball (Old/Tilt Bug) | eightblo.nv |  |  |
@@ -582,11 +582,11 @@ List of available and missing nvrams:
 | Eight Ball Deluxe (modified rules rev. 29) | eballdlb.nv |  |  |
 | Eight Ball Deluxe (modified rules rev. 32) | eballdlc.nv |  |  |
 | Eight Ball Deluxe (rev. 14) | eballd14.nv |  |  |
-| Eight Ball Deluxe (rev. 15) | eballdlx.nv |  |  |
+| Eight Ball Deluxe (rev. 15) | eballdlx.nv | YES | gorgatron |
 | Eight Ball | eightbll.nv |  |  |
-| El Dorado City of Gold | eldorado.nv |  |  |
+| El Dorado City of Gold | eldorado.nv | YES | gorgatron |
 | Elektra (Free Play) | elektraa.nv |  |  |
-| Elektra | elektra.nv |  |  |
+| Elektra | elektra.nv | YES | gorgatron |
 | Elvira and the Party Monsters (LA-1) | eatpm_l1.nv |  |  |
 | Elvira and the Party Monsters (LA-2) | eatpm_l2.nv |  |  |
 | Elvira and the Party Monsters (LA-4) | eatpm_l4.nv | YES | gorgatron    |
@@ -613,10 +613,10 @@ List of available and missing nvrams:
 | Elvis (5.00 German) | elvisg.nv |  |  |
 | Elvis (5.00 Italian) | elvisi.nv |  |  |
 | Elvis (5.00 Spanish) | elvisl.nv |  |  |
-| Elvis (5.00) | elvis.nv |  |  |
+| Elvis (5.00) | elvis.nv | YES | gorgatron |
 | Embryon (7-digit conversion rev. 1) | embryonb.nv |  |  |
 | Embryon (7-digit conversion rev. 8) | embryonc.nv |  |  |
-| Embryon (7-digit conversion rev. 9) | embryond.nv |  |  |
+| Embryon (7-digit conversion rev. 9) | embryond.nv | YES | gorgatron |
 | Embryon (7-digit conversion rev. 92) | embryone.nv |  |  |
 | Embryon (Free Play) | embryona.nv |  |  |
 | Embryon | embryon.nv |  |  |
@@ -627,11 +627,11 @@ List of available and missing nvrams:
 | Escape | escape.nv |  |  |
 | Evel Knievel (Free Play) | evelknib.nv |  |  |
 | Evel Knievel (Free Play+) | evelknic.nv |  |  |
-| Evel Knievel | evelknie.nv |  |  |
+| Evel Knievel | evelknie.nv | YES | gorgatron |
 | Evil Fight | evlfight.nv |  |  |
 | Excalibur (Free Play) | excalbfp.nv |  |  |
 | Excalibur (French Free Play) | excalffp.nv |  |  |
-| Excalibur (French) | excalibr.nv |  |  |
+| Excalibur (French) | excalibr.nv | YES | gorgatron |
 | Excalibur (German Free Play) | excalgfp.nv |  |  |
 | Excalibur (German) | excalibg.nv |  |  |
 | Excalibur | excaliba.nv |  |  |
@@ -651,7 +651,7 @@ List of available and missing nvrams:
 | Family Guy (V11.0 English, German) | fg_1100ag.nv |  |  |
 | Family Guy (V11.0 English, Italian) | fg_1100ai.nv |  |  |
 | Family Guy (V11.0 English, Spanish) | fg_1100al.nv |  |  |
-| Family Guy (V12.0 English, French) | fg_1200af.nv |  |  |
+| Family Guy (V12.0 English, French) | fg_1200af.nv | YES | gorgatron |
 | Family Guy (V12.0 English, German) | fg_1200ag.nv |  |  |
 | Family Guy (V12.0 English, Italian) | fg_1200ai.nv |  |  |
 | Family Guy (V12.0 English, Spanish) | fg_1200al.nv |  |  |
@@ -670,16 +670,16 @@ List of available and missing nvrams:
 | Farfalla | farfalla.nv |  |  |
 | Fathom (Free Play) | fathoma.nv |  |  |
 | Fathom (modified rules rev. 5) | fathomb.nv |  |  |
-| Fathom | fathom.nv |  |  |
+| Fathom | fathom.nv | YES | gorgatron |
 | Fire Action Deluxe | fireactd.nv |  |  |
 | Fire Action | fireact.nv |  |  |
 | Fire Mountain | firemntn.nv |  |  |
 | Fire! (L-2) | fire_l2.nv |  |  |
-| Fire! (L-3) | fire_l3.nv |  |  |
+| Fire! (L-3) | fire_l3.nv | YES | gorgatron |
 | Fireball Classic (Free Play) | fbclassa.nv |  |  |
-| Fireball Classic | fbclass.nv |  |  |
+| Fireball Classic | fbclass.nv | YES | gorgatron |
 | Fireball II (Free Play) | fball_ia.nv |  |  |
-| Fireball II | fball_ii.nv |  |  |
+| Fireball II | fball_ii.nv | YES | gorgatron |
 | Firepower (L-2) | frpwr_l2.nv |  |  |
 | Firepower (L-6) | frpwr_l6.nv |  |  |
 | Firepower (Sys.6/6-digit /10 Scoring rev. 31) | frpwr_d6.nv |  |  |
@@ -703,7 +703,7 @@ List of available and missing nvrams:
 | Fish Tales (P-4 Prototype) | ft_p4.nv |  |  |
 | Fish Tales (P-5 LED Ghost Fix) | ft_p5.nv |  |  |
 | Flame of Athens | foathens.nv |  |  |
-| Flash (L-1) | flash_l1.nv |  |  |
+| Flash (L-1) | flash_l1.nv | YES | gorgatron |
 | Flash (L-2) | flash_l2.nv |  |  |
 | Flash (T-1 Ted Estes) | flash_t1.nv |  |  |
 | Flash Dragon | fldragon.nv |  |  |
@@ -716,7 +716,7 @@ List of available and missing nvrams:
 | Flash Gordon (Prototype rev. 2) | flashgp2.nv |  |  |
 | Flash Gordon (Vocalizer Sound Free Play) | flashgva.nv |  |  |
 | Flash Gordon (Vocalizer Sound) | flashgdv.nv |  |  |
-| Flash Gordon | flashgdn.nv |  |  |
+| Flash Gordon | flashgdn.nv | YES | gorgatron |
 | Flashman | flashman.nv |  |  |
 | Flicker (Prototype) | flicker.nv |  |  |
 | Flight 2000 (Free Play) | flightfp.nv |  |  |
@@ -735,13 +735,13 @@ List of available and missing nvrams:
 | Flipper Football (1.04) | ffv104.nv |  |  |
 | Football | football.nv |  |  |
 | Force II (7-digit conversion) | forceii7.nv |  |  |
-| Force II | forceii.nv |  |  |
+| Force II | forceii.nv | YES | gorgatron |
 | Force | force.nv |  |  |
 | Formula 1 | formula1.nv |  |  |
 | Foxy Lady | foxylady.nv |  |  |
 | Frankenstein, Mary Shelley's (German) | frankstg.nv |  |  |
-| Frankenstein, Mary Shelley's | frankst.nv |  |  |
-| Freddy: A Nightmare on Elm Street (rev. 3) | freddy.nv |  |  |
+| Frankenstein, Mary Shelley's | frankst.nv | YES | gorgatron |
+| Freddy: A Nightmare on Elm Street (rev. 3) | freddy.nv | YES | gorgatron |
 | Freddy: A Nightmare on Elm Street (rev. 4) | freddy4.nv |  |  |
 | Free Fall (Free Play) | freefafp.nv |  |  |
 | Free Fall | freefall.nv |  |  |
@@ -750,7 +750,7 @@ List of available and missing nvrams:
 | Freedom | freedom.nv |  |  |
 | Frontier (Free Play) | frontiea.nv |  |  |
 | Frontier (Gate Fix) | frontieg.nv |  |  |
-| Frontier | frontier.nv |  |  |
+| Frontier | frontier.nv | YES | gorgatron |
 | Funhouse (9.05H) | fh_905h.nv | YES | gorgatron    |
 | Funhouse (9.06H Coin Play) | fh_906h.nv |  |  |
 | Funhouse (D-3 LED Ghost Fix) | fh_d3.nv |  |  |
@@ -768,7 +768,7 @@ List of available and missing nvrams:
 | Funhouse (L-9, SL-3) | fh_l9.nv |  |  |
 | Future Queen | futrquen.nv |  |  |
 | Future Spa (7-digit conversion) | futurspb.nv |  |  |
-| Future Spa | futurspa.nv |  |  |
+| Future Spa | futurspa.nv | YES | gorgatron |
 | Future World | futurwld.nv |  |  |
 | Galaxy (7-digit bootleg) | galaxyb.nv |  |  |
 | Galaxy (Free Play) | galaxyfp.nv |  |  |
@@ -783,7 +783,7 @@ List of available and missing nvrams:
 | Game Show (LU-3 Europe) | gs_lu3.nv |  |  |
 | Game Show (LU-4 Europe) | gs_lu4.nv |  |  |
 | Games, The (NSM) | gamesnsm.nv |  |  |
-| Games, The | thegames.nv |  |  |
+| Games, The | thegames.nv | YES | gorgatron |
 | Gemini 2000 (alternate set) | gemini1.nv |  |  |
 | Gemini 2000 | gemini.nv |  |  |
 | Genesis (Free Play) | genesifp.nv |  |  |
@@ -791,8 +791,8 @@ List of available and missing nvrams:
 | Genesis (French) | genesisf.nv |  |  |
 | Genesis (German Free Play) | genesgfp.nv |  |  |
 | Genesis (German) | genesisg.nv |  |  |
-| Genesis | genesis.nv |  |  |
-| Genie | genie.nv |  |  |
+| Genesis | genesis.nv | YES | gorgatron |
+| Genie | genie.nv | YES | gorgatron |
 | Getaway: High Speed II, The (D-1 LED Ghost Fix) | gw_d1.nv |  |  |
 | Getaway: High Speed II, The (D-2 LED Ghost Fix) | gw_d2.nv |  |  |
 | Getaway: High Speed II, The (D-3 LED Ghost Fix) | gw_d3.nv |  |  |
@@ -816,13 +816,13 @@ List of available and missing nvrams:
 | Gilligan's Island (L-6) | gi_l6.nv |  |  |
 | Gilligan's Island (L-8) | gi_l8.nv |  |  |
 | Gilligan's Island (L-9) | gi_l9.nv | YES | gorgatron    |
-| Gladiators | gladiatr.nv |  |  |
+| Gladiators | gladiatr.nv | YES | gorgatron |
 | Global Warfare | gwarfare.nv |  |  |
 | Godzilla (0.90 Prototype) | godz_090.nv |  |  |
 | Godzilla (1.00) | godz_100.nv |  |  |
 | Godzilla (2.05) | godzilla.nv | YES       | Syd711       |
-| Goin' Nuts | goinnuts.nv |  |  |
-| Gold Ball (6/7-digit alternate set rev. 12) | goldbalc.nv |  |  |
+| Goin' Nuts | goinnuts.nv | YES | gorgatron |
+| Gold Ball (6/7-digit alternate set rev. 12) | goldbalc.nv | YES | gorgatron |
 | Gold Ball (7-digit conversion) | goldbalb.nv |  |  |
 | Gold Ball (alternate set) | goldbaln.nv |  |  |
 | Gold Ball | goldball.nv |  |  |
@@ -832,8 +832,8 @@ List of available and missing nvrams:
 | Gold Wings (French) | gldwingf.nv |  |  |
 | Gold Wings (German Free Play) | gldwggfp.nv |  |  |
 | Gold Wings (German) | gldwingg.nv |  |  |
-| Gold Wings | goldwing.nv |  |  |
-| Golden Cue | goldcue.nv |  |  |
+| Gold Wings | goldwing.nv | YES | gorgatron |
+| Golden Cue | goldcue.nv | YES | gorgatron |
 | Golden Game (Bingo) | goldgame.nv |  |  |
 | Golden Game Stake 6/10 (Bingo) | goldgam2.nv |  |  |
 | Goldeneye | gldneye.nv | YES       | Syd711       |
@@ -844,7 +844,7 @@ List of available and missing nvrams:
 | Gork | gork.nv |  |  |
 | Grand 8, Le | grand8.nv |  |  |
 | Grand Lizard (L-3) | grand_l3.nv |  |  |
-| Grand Lizard (L-4) | grand_l4.nv |  |  |
+| Grand Lizard (L-4) | grand_l4.nv | YES | gorgatron |
 | Grand Prix (3.01 French) | gpr301f.nv |  |  |
 | Grand Prix (3.01 German) | gpr301g.nv |  |  |
 | Grand Prix (3.01 Italian) | gpr301i.nv |  |  |
@@ -895,7 +895,7 @@ List of available and missing nvrams:
 | Harley-Davidson (D-3 LED Ghost Fix) | hd_d3.nv |  |  |
 | Harley-Davidson (L-1) | hd_l1.nv |  |  |
 | Harley-Davidson (L-2) | hd_l2.nv |  |  |
-| Harley-Davidson (L-3) | hd_l3.nv |  |  |
+| Harley-Davidson (L-3) | hd_l3.nv | YES | gorgatron |
 | Harley-Davidson (Sega, 1.03 English) | harl_u13.nv |  |  |
 | Harley-Davidson (Sega, 1.03 French) | harl_f13.nv |  |  |
 | Harley-Davidson (Sega, 1.03 German) | harl_g13.nv |  |  |
@@ -912,7 +912,7 @@ List of available and missing nvrams:
 | Harley-Davidson (Stern, 3.00 German) | harl_g30.nv |  |  |
 | Harley-Davidson (Stern, 3.00 Italian) | harl_i30.nv |  |  |
 | Harley-Davidson (Stern, 3.00 Spanish) | harl_l30.nv |  |  |
-| Harley-Davidson (Stern, 3.00) | harl_a30.nv |  |  |
+| Harley-Davidson (Stern, 3.00) | harl_a30.nv | YES | gorgatron |
 | Harley-Davidson (Stern, 4.00 French) | harl_f40.nv |  |  |
 | Harley-Davidson (Stern, 4.00 German) | harl_g40.nv |  |  |
 | Harley-Davidson (Stern, 4.00 Italian) | harl_i40.nv |  |  |
@@ -920,7 +920,7 @@ List of available and missing nvrams:
 | Harley-Davidson (Stern, 4.00) | harl_a40.nv |  |  |
 | Haunted Hotel | hhotel.nv |  |  |
 | Haunted House (rev. 1) | hh_1.nv |  |  |
-| Haunted House (rev. 2) | hh.nv |  |  |
+| Haunted House (rev. 2) | hh.nv | YES | gorgatron |
 | Haunted House (rev. 2, 7-digit conversion) | hh7.nv |  |  |
 | Haunted House (rev. 3 unofficial MOD) | hh_3.nv |  |  |
 | Haunted House (rev. 3 unofficial MOD, LED) | hh_3a.nv |  |  |
@@ -941,9 +941,9 @@ List of available and missing nvrams:
 | High Roller Casino (3.00 German) | hirol_g3.nv |  |  |
 | High Roller Casino (3.00 Italian) | hirol_it.nv |  |  |
 | High Roller Casino (3.00 TEST BUILD) | hirolcat.nv |  |  |
-| High Roller Casino (3.00) | hirolcas.nv |  |  |
+| High Roller Casino (3.00) | hirolcas.nv | YES | gorgatron |
 | High Speed (L-3) | hs_l3.nv |  |  |
-| High Speed (L-4) | hs_l4.nv |  |  |
+| High Speed (L-4) | hs_l4.nv | YES | gorgatron |
 | High Speed (L-4C Competition MOD) | hs_l4c.nv |  |  |
 | Hoe Down | hoedown.nv |  |  |
 | Hollywood Heat (Free Play) | hlywdhfp.nv |  |  |
@@ -951,7 +951,7 @@ List of available and missing nvrams:
 | Hollywood Heat (French) | hlywodhf.nv |  |  |
 | Hollywood Heat (German Free Play) | hlywhgfp.nv |  |  |
 | Hollywood Heat (German) | hlywodhg.nv |  |  |
-| Hollywood Heat | hlywoodh.nv |  |  |
+| Hollywood Heat | hlywoodh.nv | YES | gorgatron |
 | Hook (4.01 with Prototype Sound) | hook_401p.nv |  |  |
 | Hook (4.01) | hook_401.nv |  |  |
 | Hook (4.04) | hook_404.nv |  |  |
@@ -959,7 +959,7 @@ List of available and missing nvrams:
 | Hook (5.00 unofficial MOD) | hook_500.nv |  |  |
 | Hook (5.01 unofficial MOD) | hook_501.nv | YES | gorgatron    |
 | Hoops | hoops.nv |  |  |
-| Hot Doggin (7-digit conversion) | hotdoggb.nv |  |  |
+| Hot Doggin (7-digit conversion) | hotdoggb.nv | YES | gorgatron |
 | Hot Doggin (modified rules rev. 2 Free Play) | hotdogga.nv |  |  |
 | Hot Doggin | hotdoggn.nv |  |  |
 | Hot Fire Birds | firebird.nv |  |  |
@@ -972,13 +972,13 @@ List of available and missing nvrams:
 | Hot Shots (French) | hotshotf.nv |  |  |
 | Hot Shots (German Free Play) | hotshgfp.nv |  |  |
 | Hot Shots (German) | hotshotg.nv |  |  |
-| Hot Shots | hotshots.nv |  |  |
+| Hot Shots | hotshots.nv | YES | gorgatron |
 | Hot Tip (L-1) | httip_l1.nv |  |  |
 | Hot Wheels | hotwheel.nv |  |  |
 | House of Diamonds | hod.nv |  |  |
 | Howzat | howzat.nv |  |  |
 | Hurricane (D-2 LED Ghost Fix) | hurr_d2.nv |  |  |
-| Hurricane (L-2) | hurr_l2.nv |  |  |
+| Hurricane (L-2) | hurr_l2.nv | YES | gorgatron |
 | Hustler | hustler.nv |  |  |
 | HyperBall (L-2) | hypbl_l2.nv |  |  |
 | HyperBall (L-3) | hypbl_l3.nv |  |  |
@@ -988,10 +988,10 @@ List of available and missing nvrams:
 | ID4: Independence Day (2.01 French) | id4_201f.nv |  |  |
 | ID4: Independence Day (2.01) | id4_201.nv |  |  |
 | ID4: Independence Day (2.02 French) | id4f.nv |  |  |
-| ID4: Independence Day (2.02) | id4.nv |  |  |
+| ID4: Independence Day (2.02) | id4.nv | YES | gorgatron |
 | Ice Cold Beer (Free Play) | icecoldf.nv |  |  |
 | Ice Cold Beer | icecold.nv |  |  |
-| Ice Fever | icefever.nv |  |  |
+| Ice Fever | icefever.nv | YES | gorgatron |
 | Ice Mania | icemania.nv |  |  |
 | Incredible Hulk, The | hulk.nv |  |  |
 | Indiana Jones (V1.13 French) | ij4_113f.nv |  |  |
@@ -1010,7 +1010,7 @@ List of available and missing nvrams:
 | Indiana Jones (V1.16 Spanish) | ij4_116l.nv |  |  |
 | Indiana Jones (V1.16) | ij4_116.nv |  |  |
 | Indiana Jones (V2.1 French) | ij4_210f.nv |  |  |
-| Indiana Jones (V2.1) | ij4_210.nv |  |  |
+| Indiana Jones (V2.1) | ij4_210.nv | YES | gorgatron |
 | Indiana Jones: The Pinball Adventure (D-3 LED Ghost Fix) | ij_d3.nv |  |  |
 | Indiana Jones: The Pinball Adventure (D-4 LED Ghost Fix) | ij_d4.nv |  |  |
 | Indiana Jones: The Pinball Adventure (D-5 LED Ghost Fix) | ij_d5.nv |  |  |
@@ -1028,11 +1028,11 @@ List of available and missing nvrams:
 | Indiana Jones: The Pinball Adventure (P-2 Prototype) | ij_p2.nv |  |  |
 | Indianapolis 500 (1.0R) | i500_10r.nv |  |  |
 | Indianapolis 500 (1.1 Belgian) | i500_11b.nv |  |  |
-| Indianapolis 500 (1.1R) | i500_11r.nv |  |  |
+| Indianapolis 500 (1.1R) | i500_11r.nv | YES | gorgatron |
 | Io Moon | iomoon.nv |  |  |
 | Iron Balls | ironball.nv |  |  |
 | Iron Maiden (Free Play) | ironmafp.nv |  |  |
-| Iron Maiden | ironmaid.nv |  |  |
+| Iron Maiden | ironmaid.nv | YES | gorgatron |
 | Iron Man (V1.0) | im_100.nv |  |  |
 | Iron Man (V1.1) | im_110.nv |  |  |
 | Iron Man (V1.2) | im_120.nv |  |  |
@@ -1045,16 +1045,16 @@ List of available and missing nvrams:
 | Iron Man (V1.86) | im_186.nv |  |  |
 | Iron Man Vault Edition (V1.83) | im_183ve.nv |  |  |
 | Iron Man Vault Edition (V1.85) | im_185ve.nv | YES | gorgatron    |
-| Iron Man Vault Edition (V1.86) | im_186ve.nv |  |  |
+| Iron Man Vault Edition (V1.86) | im_186ve.nv | YES | gorgatron |
 | Jack*Bot (0.4A Prototype) | jb_04a.nv |  |  |
 | Jack*Bot (1.01B Belgish/Canadian LED Ghost Fix) | jb_101b.nv |  |  |
 | Jack*Bot (1.01R LED Ghost Fix) | jb_101r.nv |  |  |
 | Jack*Bot (1.0B Belgish/Canadian) | jb_10b.nv |  |  |
 | Jack*Bot (1.0R) | jb_10r.nv | YES | gorgatron    |
-| Jacks to Open | jack2opn.nv |  |  |
+| Jacks to Open | jack2opn.nv | YES | gorgatron |
 | James Bond (3/5-Ball) | jamesb2.nv |  |  |
 | James Bond (3/5-Ball, 7-digit conversion) | jamesb7b.nv |  |  |
-| James Bond (Timed Play) | jamesb.nv |  |  |
+| James Bond (Timed Play) | jamesb.nv | YES | gorgatron |
 | James Bond (Timed Play, 7-digit conversion) | jamesb7.nv |  |  |
 | Johnny Mnemonic (0.5R) | jm_05r.nv |  |  |
 | Johnny Mnemonic (1.2B Belgian) | jm_12b.nv |  |  |
@@ -1062,10 +1062,10 @@ List of available and missing nvrams:
 | Joker Poker | jokrpokr.nv |  |  |
 | Jokerz (G-4 German) | jokrz_g4.nv |  |  |
 | Jokerz (L-3) | jokrz_l3.nv |  |  |
-| Jokerz (L-6) | jokrz_l6.nv |  |  |
+| Jokerz (L-6) | jokrz_l6.nv | YES | gorgatron |
 | Jolly Park | jolypark.nv |  |  |
 | Joust (L-1) | jst_l1.nv |  |  |
-| Joust (L-2) | jst_l2.nv |  |  |
+| Joust (L-2) | jst_l2.nv | YES | gorgatron |
 | Judge Dredd (D-1 LED Ghost Fix) | jd_d1.nv |  |  |
 | Judge Dredd (D-4 LED Ghost Fix) | jd_d4.nv |  |  |
 | Judge Dredd (D-5 LED Ghost Fix) | jd_d5.nv |  |  |
@@ -1077,11 +1077,11 @@ List of available and missing nvrams:
 | Judge Dredd (L-6) | jd_l6.nv |  |  |
 | Judge Dredd (L-7) | jd_l7.nv |  |  |
 | Jungle Lord (L-1) | jngld_l1.nv |  |  |
-| Jungle Lord (L-2) | jngld_l2.nv |  |  |
+| Jungle Lord (L-2) | jngld_l2.nv | YES | gorgatron |
 | Jungle Lord New Tricks | jngld_nt.nv |  |  |
 | Junk Yard (0.3 Prototype) | jy_03.nv |  |  |
 | Junk Yard (1.1) | jy_11.nv |  |  |
-| Junk Yard (1.2) | jy_12.nv |  |  |
+| Junk Yard (1.2) | jy_12.nv | YES | gorgatron |
 | Junk Yard (1.2C Competition MOD) | jy_12c.nv |  |  |
 | Jurassic Park (5.01 German) | jupk_g51.nv |  |  |
 | Jurassic Park (5.01) | jupk_501.nv |  |  |
@@ -1089,19 +1089,19 @@ List of available and missing nvrams:
 | Jurassic Park (6.00 unofficial MOD) | jupk_600.nv | YES | gorgatron    |
 | KZ-26 | kz26.nv |  |  |
 | Kidnap | kidnap.nv |  |  |
-| King Kong (1.0) | kiko_a10.nv |  |  |
+| King Kong (1.0) | kiko_a10.nv | YES | gorgatron |
 | King Kong (LTD) | kkongltd.nv |  |  |
 | King Tut (Shuffle) (L-1) | kingt_l1.nv |  |  |
 | Kingpin (Beta 1.05) | kpb105.nv |  |  |
 | Kings of Steel (Free Play) | kosteela.nv |  |  |
-| Kings of Steel | kosteel.nv |  |  |
+| Kings of Steel | kosteel.nv | YES | gorgatron |
 | Kiss (/10 Free Play) | kissd.nv |  |  |
-| Kiss (7-digit Free Play rev. 3) | kissc.nv |  |  |
+| Kiss (7-digit Free Play rev. 3) | kissc.nv | YES | gorgatron |
 | Kiss (7-digit conversion rev. 20) | kissb.nv |  |  |
 | Kiss (Prototype v.2) | kissp2.nv |  |  |
 | Kiss (Prototype) | kissp.nv |  |  |
 | Kiss | kiss.nv |  |  |
-| Krull | krull.nv |  |  |
+| Krull | krull.nv | YES | gorgatron |
 | L'Hexagone | hexagone.nv |  |  |
 | Lady Luck (Taito) | ladylukt.nv |  |  |
 | Lady Luck | ladyluck.nv |  |  |
@@ -1109,13 +1109,13 @@ List of available and missing nvrams:
 | Lady Sharpshooter | ladyshot.nv |  |  |
 | Lap By Lap (Free Play) | lapbylfp.nv |  |  |
 | Lap By Lap | lapbylap.nv |  |  |
-| Laser Ball (L-2) | lzbal_l2.nv |  |  |
+| Laser Ball (L-2) | lzbal_l2.nv | YES | gorgatron |
 | Laser Ball (L-2, PROM Sound) | lzbal_l2sp.nv |  |  |
 | Laser Ball (T-2 Ted Estes) | lzbal_t2.nv |  |  |
-| Laser Cue (L-2) | lsrcu_l2.nv |  |  |
+| Laser Cue (L-2) | lsrcu_l2.nv | YES | gorgatron |
 | Laser Cue (L-3) | lsrcu_l3.nv |  |  |
 | Laser War (8.1) | lwar_a81.nv |  |  |
-| Laser War (8.3) | lwar_a83.nv |  |  |
+| Laser War (8.3) | lwar_a83.nv | YES | gorgatron |
 | Laser War (9.0 Europe) | lwar_e90.nv |  |  |
 | Last Action Hero (1.04 French) | lah_f104.nv |  |  |
 | Last Action Hero (1.04 Spanish) | lah_l104.nv |  |  |
@@ -1141,8 +1141,8 @@ List of available and missing nvrams:
 | Lethal Weapon 3 (3.00 unofficial MOD) | lw3_300.nv |  |  |
 | Lethal Weapon 3 (3.01 unofficial MOD) | lw3_301.nv |  |  |
 | Lightning (Free Play) | lightnfp.nv |  |  |
-| Lightning | lightnin.nv |  |  |
-| Lights, Camera, Action (rev. 2) | lca2.nv |  |  |
+| Lightning | lightnin.nv | YES | gorgatron |
+| Lights, Camera, Action (rev. 2) | lca2.nv | YES | gorgatron |
 | Lights, Camera, Action | lca.nv |  |  |
 | Locomotion | locomotn.nv |  |  |
 | Lord of the Rings, The (10.00 French) | lotr_fr.nv |  |  |
@@ -1194,12 +1194,12 @@ List of available and missing nvrams:
 | Lortium | lortium.nv |  |  |
 | Lost World (Free Play) | lostwldb.nv |  |  |
 | Lost World: Jurassic Park, The (2.00) | jplstw20.nv |  |  |
-| Lost World: Jurassic Park, The (2.02) | jplstw22.nv |  |  |
-| Lost World | lostwrld.nv |  |  |
+| Lost World: Jurassic Park, The (2.02) | jplstw22.nv | YES | gorgatron |
+| Lost World | lostwrld.nv | YES | gorgatron |
 | Lost in Space (1.01 French) | lostspcf.nv |  |  |
 | Lost in Space (1.01 German) | lostspcg.nv |  |  |
 | Lost in Space (1.01, Display 1.01) | lostspc1.nv |  |  |
-| Lost in Space (1.01, Display 1.02) | lostspc.nv |  |  |
+| Lost in Space (1.01, Display 1.02) | lostspc.nv | YES | gorgatron |
 | Lucky Draw | lckydraw.nv |  |  |
 | Lucky Seven (L-1) | lucky_l1.nv |  |  |
 | Lunelle | lunelle.nv |  |  |
@@ -1224,7 +1224,7 @@ List of available and missing nvrams:
 | Machine: Bride of Pinbot, The (L-7) | bop_l7.nv | YES | gorgatron    |
 | Machine: Bride of Pinbot, The (L-8 billionaire multiplayer patch) | bop_l8.nv |  |  |
 | Mad Race | madrace.nv |  |  |
-| Magic (Free Play) | magicfp.nv |  |  |
+| Magic (Free Play) | magicfp.nv | YES | gorgatron |
 | Magic Castle (Free Play) | mcastfp.nv |  |  |
 | Magic Castle (French Speech) | mcastlef.nv |  |  |
 | Magic Castle (French Speech, Free Play) | mcastffp.nv |  |  |
@@ -1235,12 +1235,12 @@ List of available and missing nvrams:
 | Magic Castle | mcastle.nv |  |  |
 | Magic | magic.nv |  |  |
 | Mario Andretti (rev. T4) | andrett4.nv |  |  |
-| Mario Andretti | andretti.nv |  |  |
+| Mario Andretti | andretti.nv | YES | gorgatron |
 | Mars - God of War (7-digit conversion) | mars7.nv |  |  |
 | Mars - God of War (French Speech) | marsf.nv |  |  |
 | Mars - God of War (Prototype) | marsp.nv |  |  |
 | Mars - God of War (rev. 2 unofficial MOD) | mars_2.nv |  |  |
-| Mars - God of War | mars.nv |  |  |
+| Mars - God of War | mars.nv | YES | gorgatron |
 | Martian Queen | marqueen.nv |  |  |
 | Master (Italian) | mmmaster.nv |  |  |
 | Mata Hari (Free Play) | mataharb.nv |  |  |
@@ -1250,7 +1250,7 @@ List of available and missing nvrams:
 | Maverick (1.00) | mav_100.nv |  |  |
 | Maverick (4.00) | mav_400.nv |  |  |
 | Maverick (4.04, Display 4.01) | mav_401.nv |  |  |
-| Maverick (4.04, Display 4.02) | mav_402.nv |  |  |
+| Maverick (4.04, Display 4.02) | mav_402.nv | YES | gorgatron |
 | Medieval Madness (0.50 Prototype) | mm_05.nv |  |  |
 | Medieval Madness (1.0 Pinball FX) | mm_10pfx.nv |  |  |
 | Medieval Madness (1.0 Ultrapin) | mm_10u.nv |  |  |
@@ -1259,11 +1259,11 @@ List of available and missing nvrams:
 | Medieval Madness (1.09B) | mm_109b.nv |  |  |
 | Medieval Madness (1.09C Profanity) | mm_109c.nv | YES | gorgatron    |
 | Medusa (Free Play) | medusaa.nv |  |  |
-| Medusa | medusa.nv |  |  |
+| Medusa | medusa.nv | YES | gorgatron |
 | Meg-Aaton (alternate set) | megaatoa.nv |  |  |
 | Meg-Aaton | megaaton.nv |  |  |
 | Memory Lane (Free Play) | memlanfp.nv |  |  |
-| Memory Lane | memlane.nv |  |  |
+| Memory Lane | memlane.nv | YES | gorgatron |
 | Mephisto (rev. 1.1) | mephist1.nv |  |  |
 | Mephisto (rev. 1.2) | mephisto.nv |  |  |
 | Metal Man | metalman.nv |  |  |
@@ -1301,7 +1301,7 @@ List of available and missing nvrams:
 | Metallica Limited Edition (V1.80.0) | mtl_180h.nv | YES | gorgatron    |
 | Meteor (/10 Scoring) | meteord.nv |  |  |
 | Meteor (7-digit conversion Free Play) | meteorc.nv |  |  |
-| Meteor (7-digit conversion) | meteorb.nv |  |  |
+| Meteor (7-digit conversion) | meteorb.nv | YES | gorgatron |
 | Meteor (Bonus Count Fix) | meteorbf.nv |  |  |
 | Meteor (Bonus Count Fix, MOD, 7-Digit, Free Play rev. 74) | meteore7.nv |  |  |
 | Meteor (Bonus Count Fix, MOD, Free Play rev. 64) | meteore.nv |  |  |
@@ -1319,7 +1319,7 @@ List of available and missing nvrams:
 | Middle Earth | midearth.nv |  |  |
 | Midnight Marauders (Gun game) | mdntmrdr.nv |  |  |
 | Mike Bossy | mbossy.nv |  |  |
-| Millionaire (L-3) | milln_l3.nv |  |  |
+| Millionaire (L-3) | milln_l3.nv | YES | gorgatron |
 | Miss Disco (Bingo) | msdisco.nv |  |  |
 | Miss World(7-digit Rev3 Free Play) (7-digit Rev3 Free Play) | missworld.nv |  |  |
 | Monday Night Football (2.7, 50cts) | mnfb_c27.nv |  |  |
@@ -1333,7 +1333,7 @@ List of available and missing nvrams:
 | Monopoly (3.20 German) | monopolg.nv |  |  |
 | Monopoly (3.20 Italian) | monopoli.nv |  |  |
 | Monopoly (3.20 Spanish) | monopoll.nv |  |  |
-| Monopoly (3.20) | monopoly.nv |  |  |
+| Monopoly (3.20) | monopoly.nv | YES | gorgatron |
 | Monopoly (Coin Dropper) | monopred.nv |  |  |
 | Monster Bash (0.5) | mb_05.nv |  |  |
 | Monster Bash (1.0) | mb_10.nv |  |  |
@@ -1348,7 +1348,7 @@ List of available and missing nvrams:
 | Monte Carlo (rev. 1) | mntecrla.nv |  |  |
 | Monte Carlo (rev. 2 Free Play) | mntcr2fp.nv |  |  |
 | Monte Carlo (rev. 2) | mntecrl2.nv |  |  |
-| Monte Carlo | mntecrlo.nv |  |  |
+| Monte Carlo | mntecrlo.nv | YES | gorgatron |
 | Moon Light (Free Play) | moonlifp.nv |  |  |
 | Moon Light | moonlght.nv |  |  |
 | Motor Show (alternate set) | motrshwa.nv |  |  |
@@ -1356,12 +1356,12 @@ List of available and missing nvrams:
 | MotorDome (German) | motrdomg.nv |  |  |
 | MotorDome | motrdome.nv |  |  |
 | Mousin' Around! (LA-1) | mousn_l1.nv |  |  |
-| Mousin' Around! (LA-4) | mousn_l4.nv |  |  |
+| Mousin' Around! (LA-4) | mousn_l4.nv | YES | gorgatron |
 | Mousin' Around! (LA-4C Competition MOD) | mousn_l4c.nv |  |  |
 | Mousin' Around! (LU-1 Europe) | mousn_lu.nv |  |  |
 | Movie Masters | movmastr.nv |  |  |
 | Mr. & Mrs. Pac-Man Pinball (Free Play) | m_mpaca.nv |  |  |
-| Mr. & Mrs. Pac-Man Pinball | m_mpac.nv |  |  |
+| Mr. & Mrs. Pac-Man Pinball | m_mpac.nv | YES | gorgatron |
 | Mr. & Mrs. Pec-Men | pecmen.nv |  |  |
 | Mr. Black (Z-80 CPU) | mrblkz80.nv |  |  |
 | Mr. Black (alternate set) | mrblack1.nv |  |  |
@@ -1378,10 +1378,10 @@ List of available and missing nvrams:
 | Mustang Limited Edition (V1.3) | mt_130h.nv |  |  |
 | Mustang Limited Edition (V1.4) | mt_140h.nv |  |  |
 | Mustang Limited Edition (V1.45) (Colored MOD) | mt_145hc.nv |  |  |
-| Mustang Limited Edition (V1.45) | mt_145h.nv |  |  |
+| Mustang Limited Edition (V1.45) | mt_145h.nv | YES | gorgatron |
 | Mystery Castle (R02) | mystcast.nv |  |  |
 | Mystery Castle (R03) | mystcasa.nv |  |  |
-| Mystic (7-digit conversion) | mysticb.nv |  |  |
+| Mystic (7-digit conversion) | mysticb.nv | YES | gorgatron |
 | Mystic Star | myststar.nv |  |  |
 | Mystic | mystic.nv |  |  |
 | NASCAR (3.01 Spanish) | nas301l.nv |  |  |
@@ -1395,12 +1395,12 @@ List of available and missing nvrams:
 | NASCAR (4.00 Spanish) | nas400l.nv |  |  |
 | NASCAR (4.00) | nas400.nv |  |  |
 | NASCAR (4.50 Spanish) | nascarl.nv |  |  |
-| NASCAR (4.50) | nascar.nv |  |  |
+| NASCAR (4.50) | nascar.nv | YES | gorgatron |
 | NBA (V5.0) | nba_500.nv |  |  |
 | NBA (V6.0) | nba_600.nv |  |  |
 | NBA (V7.0) | nba_700.nv |  |  |
 | NBA (V8.01) | nba_801.nv |  |  |
-| NBA (V8.02) | nba_802.nv |  |  |
+| NBA (V8.02) | nba_802.nv | YES | gorgatron |
 | NBA Fastbreak (1.1) | nbaf_11.nv |  |  |
 | NBA Fastbreak (1.1, Sound S0.4) | nbaf_11s.nv |  |  |
 | NBA Fastbreak (1.1, Sound S2.0) | nbaf_11a.nv |  |  |
@@ -1425,13 +1425,13 @@ List of available and missing nvrams:
 | Night Rider (Free Play) | nightrdb.nv |  |  |
 | Night Rider (Free Play+) | nightrdc.nv |  |  |
 | Night Rider (rev. 20) | nightr20.nv |  |  |
-| Night Rider (rev. 21) | nightrdr.nv |  |  |
+| Night Rider (rev. 21) | nightrdr.nv | YES | gorgatron |
 | Nine Ball (Ball handling MOD beta18) | ninebala.nv |  |  |
 | Nine Ball (Free Play) | ninebafp.nv |  |  |
 | Nine Ball (modified rules rev. 85) | ninebalb.nv |  |  |
 | Nine Ball | nineball.nv |  |  |
 | Nitro Groundshaker (7-digit conversion with siren patch) | ngndshkm.nv |  |  |
-| Nitro Groundshaker (7-digit conversion) | ngndshkb.nv |  |  |
+| Nitro Groundshaker (7-digit conversion) | ngndshkb.nv | YES | gorgatron |
 | Nitro Groundshaker | ngndshkr.nv |  |  |
 | No Fear: Dangerous Sports (1.0) | nf_10.nv |  |  |
 | No Fear: Dangerous Sports (1.01 LED Ghost Fix) | nf_101.nv |  |  |
@@ -1457,26 +1457,26 @@ List of available and missing nvrams:
 | Olympic Games | olympic.nv |  |  |
 | Olympus | olympus.nv |  |  |
 | Omni (Shuffle) (L-1) | omni_l1.nv |  |  |
-| Operation Thunder | opthund.nv |  |  |
+| Operation Thunder | opthund.nv | YES | gorgatron |
 | Orbit 1 | orbit1.nv |  |  |
 | Orbitor 1 (Bootleg Free Play) | orbitorb.nv |  |  |
 | Orbitor 1 (Bootleg No Timed Game) | orbitorc.nv |  |  |
 | Orbitor 1 (Bootleg) | orbitora.nv |  |  |
 | Orbitor 1 (Free Play) | orbitofp.nv |  |  |
 | Orbitor 1 | orbitor1.nv |  |  |
-| Panthera (7-digit conversion) | panther7.nv |  |  |
+| Panthera (7-digit conversion) | panther7.nv | YES | gorgatron |
 | Panthera | panthera.nv |  |  |
 | Papillon | papillon.nv |  |  |
 | Paragon (/10 Free Play) | paragond.nv |  |  |
 | Paragon (7-digit Free Play rev. 3) | paragonc.nv |  |  |
 | Paragon (7-digit conversion rev. 20) | paragonb.nv |  |  |
-| Paragon | paragon.nv |  |  |
+| Paragon | paragon.nv | YES | gorgatron |
 | Party Animal (German) | prtyanig.nv |  |  |
 | Party Animal | prtyanim.nv |  |  |
 | Party Zone, The (D-1 LED Ghost Fix) | pz_d1.nv |  |  |
 | Party Zone, The (D-2 LED Ghost Fix) | pz_d2.nv |  |  |
 | Party Zone, The (D-3 LED Ghost Fix) | pz_d3.nv |  |  |
-| Party Zone, The (F-4 Fliptronic) | pz_f4.nv |  |  |
+| Party Zone, The (F-4 Fliptronic) | pz_f4.nv | YES | gorgatron |
 | Party Zone, The (F-4 Pinball FX) | pz_f4pfx.nv |  |  |
 | Party Zone, The (F-5 LED Ghost Fix) | pz_f5.nv |  |  |
 | Party Zone, The (L-1) | pz_l1.nv |  |  |
@@ -1495,7 +1495,7 @@ List of available and missing nvrams:
 | Phantom Ship | phntmshp.nv |  |  |
 | Phantom of the Opera, The (2.9) | poto_a29.nv |  |  |
 | Phantom of the Opera, The (3.1) | poto_a31.nv |  |  |
-| Phantom of the Opera, The (3.2) | poto_a32.nv |  |  |
+| Phantom of the Opera, The (3.2) | poto_a32.nv | YES | gorgatron |
 | Pharaoh (L-2 Tomb Sound Fix MOD) | pharo_l2b.nv |  |  |
 | Pharaoh (L-2) | pharo_l2.nv | YES | gorgatron    |
 | Phoenix (L-1) | phnix_l1.nv |  |  |
@@ -1504,7 +1504,7 @@ List of available and missing nvrams:
 | Pin-Bot (L-1) | pb_l1.nv |  |  |
 | Pin-Bot (L-2) | pb_l2.nv |  |  |
 | Pin-Bot (L-3) | pb_l3.nv |  |  |
-| Pin-Bot (L-5) | pb_l5.nv |  |  |
+| Pin-Bot (L-5) | pb_l5.nv | YES | gorgatron |
 | Pin-Bot (L-5, Free Play / Solar Value Mod) | pb_l5h.nv |  |  |
 | Pin-Bot (P-4 Prototype) | pb_p4.nv |  |  |
 | Pinball (Free Play) | pinbalfp.nv |  |  |
@@ -1526,7 +1526,7 @@ List of available and missing nvrams:
 | Pinball | pinball.nv |  |  |
 | Pink Panther (7-digit conversion) | pnkpntr7.nv |  |  |
 | Pink Panther (sound correction fix) | pnkpntrs.nv |  |  |
-| Pink Panther | pnkpnthr.nv |  |  |
+| Pink Panther | pnkpnthr.nv | YES | gorgatron |
 | Pirates of the Caribbean (V1.08 English, Spanish) | potc_108as.nv |  |  |
 | Pirates of the Caribbean (V1.09 English, Italian) | potc_109ai.nv |  |  |
 | Pirates of the Caribbean (V1.09 English, Spanish) | potc_109as.nv |  |  |
@@ -1556,7 +1556,7 @@ List of available and missing nvrams:
 | Pirates of the Caribbean (V6.0 English, Spanish) | potc_600as.nv | YES | gorgatron    |
 | Pirates of the Caribbean (V6.0 German, French) | potc_600gf.nv |  |  |
 | Pistol Poker (R01) | pstlpkr1.nv |  |  |
-| Pistol Poker (R02) | pstlpkr.nv |  |  |
+| Pistol Poker (R02) | pstlpkr.nv | YES | gorgatron |
 | Playboy (/10 Free Play) | playboyd.nv |  |  |
 | Playboy (7-digit Free Play rev. 3) | playboyc.nv |  |  |
 | Playboy (7-digit conversion rev. 20) | playboyb.nv |  |  |
@@ -1593,7 +1593,7 @@ List of available and missing nvrams:
 | Pole Position (Sonic) | poleposn.nv |  |  |
 | Police Force (LA-2) | polic_l2.nv |  |  |
 | Police Force (LA-3) | polic_l3.nv |  |  |
-| Police Force (LA-4) | polic_l4.nv |  |  |
+| Police Force (LA-4) | polic_l4.nv | YES | gorgatron |
 | Police Force (LG-4 German) | polic_g4.nv |  |  |
 | Pompeii (Shuffle) (L-1) | pomp_l1.nv |  |  |
 | Pool Champion (Free Play) | poolcfp.nv |  |  |
@@ -1601,28 +1601,28 @@ List of available and missing nvrams:
 | Pool Champion | poolcham.nv |  |  |
 | Pool Sharks (L-5) | pool_l5.nv |  |  |
 | Pool Sharks (LA-6) | pool_l6.nv |  |  |
-| Pool Sharks (LA-7) | pool_l7.nv |  |  |
+| Pool Sharks (LA-7) | pool_l7.nv | YES | gorgatron |
 | Pool Sharks (LA-7C Competition MOD) | pool_l7c.nv |  |  |
 | Pool Sharks (LE-2 Europe) | pool_le2.nv |  |  |
 | Pool Sharks (PA-7 Prototype) | pool_p7.nv |  |  |
 | Popeye Saves The Earth (DX-5 LED Ghost Fix) | pop_dx5.nv |  |  |
 | Popeye Saves The Earth (LA-4) | pop_la4.nv |  |  |
 | Popeye Saves The Earth (LX-4) | pop_lx4.nv |  |  |
-| Popeye Saves The Earth (LX-5) | pop_lx5.nv |  |  |
+| Popeye Saves The Earth (LX-5) | pop_lx5.nv | YES | gorgatron |
 | Popeye Saves The Earth (PA-3 Prototype) | pop_pa3.nv |  |  |
 | Popeye Saves The Earth (PA-4 LED Ghost Fix) | pop_pa4.nv |  |  |
 | Power Play (Free Play) | pwerplab.nv |  |  |
 | Power Play (Free Play+) | pwerplac.nv |  |  |
 | Power Play | pwerplay.nv |  |  |
 | Pumpkin Carving | blkou_hf.nv |  |  |
-| Punchy The Clown (R02) | punchy.nv |  |  |
+| Punchy The Clown (R02) | punchy.nv | YES | gorgatron |
 | Punchy The Clown (R03) | punchy3.nv |  |  |
 | Punk! | punk.nv |  |  |
 | Punky Willy | punkywil.nv |  |  |
-| Q*Bert's Quest | qbquest.nv |  |  |
+| Q*Bert's Quest | qbquest.nv | YES | gorgatron |
 | Quicksilver (Free Play) | quicksfp.nv |  |  |
-| Quicksilver | quicksil.nv |  |  |
-| Rack 'Em Up | rackemup.nv |  |  |
+| Quicksilver | quicksil.nv | YES | gorgatron |
+| Rack 'Em Up | rackemup.nv | YES | gorgatron |
 | Radical! (L-1) | radcl_l1.nv | YES | gorgatron    |
 | Radical! (L-1C Competition MOD) | radcl_l1c.nv |  |  |
 | Radical! (LG-1 German) | radcl_g1.nv |  |  |
@@ -1659,7 +1659,7 @@ List of available and missing nvrams:
 | Red and Ted's Road Show (LX-3) | rs_lx3.nv |  |  |
 | Red and Ted's Road Show (LX-4) | rs_lx4.nv |  |  |
 | Red and Ted's Road Show (LX-5) | rs_lx5.nv |  |  |
-| Rescue 911 (rev. 1) | rescu911.nv |  |  |
+| Rescue 911 (rev. 1) | rescu911.nv | YES | gorgatron |
 | Rider's Surf | ridersrf.nv |  |  |
 | Rio | rio.nv |  |  |
 | Ripley's Believe It or Not! (3.00 French) | rip300f.nv |  |  |
@@ -1687,20 +1687,20 @@ List of available and missing nvrams:
 | Ripley's Believe It or Not! (3.20 Italian) | ripleysi.nv |  |  |
 | Ripley's Believe It or Not! (3.20 Spanish) | ripleysl.nv |  |  |
 | Ripley's Believe It or Not! (3.20) | ripleys.nv | YES | gorgatron    |
-| Riverboat Gambler (L-3) | rvrbt_l3.nv |  |  |
+| Riverboat Gambler (L-3) | rvrbt_l3.nv | YES | gorgatron |
 | Riverboat Gambler (PA-7 Prototype) | rvrbt_p7.nv |  |  |
 | Road Kings (L-1) | rdkng_l1.nv |  |  |
 | Road Kings (L-2) | rdkng_l2.nv |  |  |
 | Road Kings (L-3) | rdkng_l3.nv |  |  |
-| Road Kings (L-4) | rdkng_l4.nv |  |  |
+| Road Kings (L-4) | rdkng_l4.nv | YES | gorgatron |
 | Road Runner (Prototype) | roadrunr.nv |  |  |
 | Robo-War (Free Play) | robowrfp.nv |  |  |
 | Robo-War (French Free Play) | robowffp.nv |  |  |
 | Robo-War (French) | robowarf.nv |  |  |
-| Robo-War | robowars.nv |  |  |
+| Robo-War | robowars.nv | YES | gorgatron |
 | Robocop (2.9) | robo_a29.nv |  |  |
 | Robocop (3.0) | robo_a30.nv |  |  |
-| Robocop (3.4) | robo_a34.nv |  |  |
+| Robocop (3.4) | robo_a34.nv | YES | gorgatron |
 | Robot (Free Play) | robotfp.nv |  |  |
 | Robot (French Speech) | robotf.nv |  |  |
 | Robot (French Speech, Free Play) | robotffp.nv |  |  |
@@ -1717,10 +1717,10 @@ List of available and missing nvrams:
 | Rock Encore (German Free Play) | rockegfp.nv |  |  |
 | Rock Encore (German) | rock_eg.nv |  |  |
 | Rock Encore | rock_enc.nv |  |  |
-| Rock | rock.nv |  |  |
+| Rock | rock.nv | YES | gorgatron |
 | Rocky (French Speech) | rockyf.nv |  |  |
 | Rocky | rocky.nv |  |  |
-| Roller Disco | roldisco.nv |  |  |
+| Roller Disco | roldisco.nv | YES | gorgatron |
 | RollerCoaster Tycoon (4.00 French) | rct400f.nv |  |  |
 | RollerCoaster Tycoon (4.00 German) | rct400g.nv |  |  |
 | RollerCoaster Tycoon (4.00 Italian) | rct400i.nv |  |  |
@@ -1742,7 +1742,7 @@ List of available and missing nvrams:
 | RollerCoaster Tycoon (7.02) | rctycn.nv | YES       | Syd711       |
 | Rollergames (AD-2 Prototype) | rollr_d2.nv |  |  |
 | Rollergames (EXPERIMENTAL) | rollr_ex.nv |  |  |
-| Rollergames (L-2) | rollr_l2.nv |  |  |
+| Rollergames (L-2) | rollr_l2.nv | YES | gorgatron |
 | Rollergames (L-2C Competition MOD) | rollr_l2c.nv |  |  |
 | Rollergames (LF-2 French) | rollr_f2.nv |  |  |
 | Rollergames (LF-3 French) | rollr_f3.nv |  |  |
@@ -1755,13 +1755,13 @@ List of available and missing nvrams:
 | Rolling Stones, The (V1.05) | rsn_105.nv |  |  |
 | Rolling Stones, The (V1.1) | rsn_110.nv |  |  |
 | Rolling Stones, The Limited Edition (V1.0) | rsn_100h.nv |  |  |
-| Rolling Stones, The Limited Edition (V1.1) | rsn_110h.nv |  |  |
+| Rolling Stones, The Limited Edition (V1.1) | rsn_110h.nv | YES | gorgatron |
 | Rolling Stones | rollston.nv |  |  |
 | Rotation VIII (1.01) | rota_101.nv |  |  |
 | Rotation VIII (1.15) | rota_115.nv |  |  |
 | Rotation VIII (1.17) | rotation.nv |  |  |
 | Roy Clark - The Entertainer | royclark.nv |  |  |
-| Royal Flush Deluxe | rflshdlx.nv |  |  |
+| Royal Flush Deluxe | rflshdlx.nv | YES | gorgatron |
 | Rush (1.0) | rush_10.nv |  |  |
 | S.A.M. Boot Flash Update (V3.1) | sam1_flashb_0310.nv |  |  |
 | S.A.M. System Flash Boot (V1.02) | sam1_flashb_0102.nv |  |  |
@@ -1788,13 +1788,13 @@ List of available and missing nvrams:
 | Scared Stiff (1.5) | ss_15.nv | YES       | Syd711       |
 | Scared Stiff (D.01R Prototype Coin Play, Sound 0.25) | ss_01b.nv |  |  |
 | Scared Stiff (D.01R Prototype, Sound 0.25) | ss_01.nv |  |  |
-| Scorpion (L-1) | scrpn_l1.nv |  |  |
+| Scorpion (L-1) | scrpn_l1.nv | YES | gorgatron |
 | Scorpion (T-1 Ted Estes) | scrpn_t1.nv |  |  |
 | Scott's Test ROM (version 8) | scotest8.nv |  |  |
 | Scramble | scram_tp.nv |  |  |
-| Seawitch (Free Play) | seawitfp.nv |  |  |
-| Seawitch | seawitch.nv |  |  |
-| Secret Service (2.6) | ssvc_a26.nv |  |  |
+| Seawitch (Free Play) | seawitfp.nv | YES | gorgatron |
+| Seawitch | seawitch.nv | YES | gorgatron |
+| Secret Service (2.6) | ssvc_a26.nv | YES | gorgatron |
 | Secret Service (2.6, alternate sound) | ssvc_b26.nv |  |  |
 | Secret Service (4.2, alternate sound) | ssvc_a42.nv |  |  |
 | Shadow, The (DA-2 LED Ghost Fix) | ts_da2.nv |  |  |
@@ -1816,7 +1816,7 @@ List of available and missing nvrams:
 | Shadow, The (LX-5) | ts_lx5.nv | YES | gorgatron    |
 | Shadow, The (PA-1 Prototype) | ts_pa1.nv |  |  |
 | Shadow, The (PA-2 LED Ghost Fix) | ts_pa2.nv |  |  |
-| Shaq Attaq (rev. 2) | shaqatt2.nv |  |  |
+| Shaq Attaq (rev. 2) | shaqatt2.nv | YES | gorgatron |
 | Shaq Attaq (rev. 5) | shaqattq.nv |  |  |
 | Shark (Taito) | sharkt.nv |  |  |
 | Shark | shark.nv |  |  |
@@ -1832,8 +1832,8 @@ List of available and missing nvrams:
 | Shrek (V1.3) | shr_130.nv |  |  |
 | Shrek (V1.41) | shr_141.nv | YES | DoXer |
 | Shuffle Inn (Shuffle) (L-1) | shfin_l1.nv |  |  |
-| Silver Slugger | silvslug.nv |  |  |
-| Silverball Mania (7-digit conversion) | slbmanib.nv |  |  |
+| Silver Slugger | silvslug.nv | YES | gorgatron |
+| Silverball Mania (7-digit conversion) | slbmanib.nv | YES | gorgatron |
 | Silverball Mania | slbmania.nv |  |  |
 | Simpsons Kooky Carnival, The (Redemption) (V0.90 New Jersey) | scarn9nj.nv |  |  |
 | Simpsons Kooky Carnival, The (Redemption) (V1.03) | scarn103.nv |  |  |
@@ -1858,18 +1858,18 @@ List of available and missing nvrams:
 | Simpsons Pinball Party, The (5.00 Spanish) | simpprtl.nv |  |  |
 | Simpsons Pinball Party, The (5.00) | simpprty.nv | YES       | Syd711       |
 | Simpsons, The (2.0) | simp_a20.nv |  |  |
-| Simpsons, The (2.7) | simp_a27.nv |  |  |
+| Simpsons, The (2.7) | simp_a27.nv | YES | gorgatron |
 | Sinbad (Norway) | sinbadn.nv |  |  |
-| Sinbad | sinbad.nv |  |  |
+| Sinbad | sinbad.nv | YES | gorgatron |
 | Sir Lancelot | lancelot.nv |  |  |
 | Six Million Dollar Man, The (/10 Free Play) | smmand.nv |  |  |
-| Six Million Dollar Man, The (7-digit Free Play rev. 3) | smmanc.nv |  |  |
+| Six Million Dollar Man, The (7-digit Free Play rev. 3) | smmanc.nv | YES | gorgatron |
 | Six Million Dollar Man, The (7-digit conversion rev. 20) | smmanb.nv |  |  |
 | Six Million Dollar Man, The | smman.nv |  |  |
 | Skate Board | skatebrd.nv |  |  |
 | Skateball (Free Play) | skatebla.nv |  |  |
 | Skateball (Improved attract mode, Free Play rev. 3) | skateblb.nv |  |  |
-| Skateball | skatebll.nv |  |  |
+| Skateball | skatebll.nv | YES | gorgatron |
 | Ski Jump | skijump.nv |  |  |
 | Skill Flight (Playmatic) | sklflite.nv |  |  |
 | Skill Flight | skflight.nv |  |  |
@@ -1884,8 +1884,8 @@ List of available and missing nvrams:
 | Soccer Kings (Italian Speech, Free Play) | sockifp.nv |  |  |
 | Soccer Kings (alternate set) | socrkina.nv |  |  |
 | Soccer Kings | socrking.nv |  |  |
-| Solar Fire (L-2) | solar_l2.nv |  |  |
-| Solar Ride | solaride.nv |  |  |
+| Solar Fire (L-2) | solar_l2.nv | YES | gorgatron |
+| Solar Ride | solaride.nv | YES | gorgatron |
 | Solar Wars (Sonic) | solarwar.nv |  |  |
 | Sopranos, The (1.07 French) | sopr107f.nv |  |  |
 | Sopranos, The (1.07 German) | sopr107g.nv |  |  |
@@ -1907,23 +1907,23 @@ List of available and missing nvrams:
 | Sopranos, The (5.00 German) | sopranog.nv |  |  |
 | Sopranos, The (5.00 Italian) | sopranoi.nv |  |  |
 | Sopranos, The (5.00 Spanish) | sopranol.nv |  |  |
-| Sopranos, The (5.00) | sopranos.nv |  |  |
-| Sorcerer (L-1) | sorcr_l1.nv |  |  |
+| Sopranos, The (5.00) | sopranos.nv | YES | gorgatron |
+| Sorcerer (L-1) | sorcr_l1.nv | YES | gorgatron |
 | Sorcerer (L-2) | sorcr_l2.nv | YES | gorgatron    |
 | South Park (0.90 Prototype) | sprk_090.nv |  |  |
 | South Park (0.96 Prototype) | sprk_096.nv |  |  |
-| South Park (1.03) | sprk_103.nv |  |  |
+| South Park (1.03) | sprk_103.nv | YES | gorgatron |
 | Space City | spacecty.nv |  |  |
 | Space Gambler | spcgambl.nv |  |  |
 | Space Hawks (Free Play) | spchawfp.nv |  |  |
 | Space Hawks | spacehaw.nv |  |  |
-| Space Invaders (7-digit conversion) | spaceinb.nv |  |  |
+| Space Invaders (7-digit conversion) | spaceinb.nv | YES | gorgatron |
 | Space Invaders | spaceinv.nv |  |  |
 | Space Jam (2.00) | spacejm2.nv |  |  |
 | Space Jam (3.00 French) | spacejmf.nv |  |  |
 | Space Jam (3.00 German) | spacejmg.nv |  |  |
 | Space Jam (3.00 Italian) | spacejmi.nv |  |  |
-| Space Jam (3.00) | spacejam.nv |  |  |
+| Space Jam (3.00) | spacejam.nv | YES | gorgatron |
 | Space Panther | spcpnthr.nv |  |  |
 | Space Poker | spcpoker.nv |  |  |
 | Space Riders | spcrider.nv |  |  |
@@ -1933,7 +1933,7 @@ List of available and missing nvrams:
 | Space Shuttle (Taito) (alternate set) | sshuttl1.nv |  |  |
 | Space Shuttle (Taito) | sshuttle.nv |  |  |
 | Space Shuttle (Zaccaria) | sshtlzac.nv |  |  |
-| Space Station (L-5) | spstn_l5.nv |  |  |
+| Space Station (L-5) | spstn_l5.nv | YES | gorgatron |
 | Space Team | spcteam.nv |  |  |
 | Space Train (old hardware) | spctrai0.nv |  |  |
 | Space Train | spctrain.nv |  |  |
@@ -1941,12 +1941,12 @@ List of available and missing nvrams:
 | Speakeasy (4 Players Free Play) | speake4a.nv |  |  |
 | Speakeasy (4 Players) | speakes4.nv |  |  |
 | Speakeasy (Free Play) | speakesa.nv |  |  |
-| Speakeasy | speakesy.nv |  |  |
+| Speakeasy | speakesy.nv | YES | gorgatron |
 | Special Force | specforc.nv |  |  |
 | Spectra IV | spectra.nv |  |  |
 | Spectrum (Free Play) | spectrua.nv |  |  |
 | Spectrum (rev. 4 Free Play) | spectr4a.nv |  |  |
-| Spectrum (rev. 4) | spectru4.nv |  |  |
+| Spectrum (rev. 4) | spectru4.nv | YES | gorgatron |
 | Spectrum | spectrum.nv |  |  |
 | Speed Test | stest.nv |  |  |
 | Spider-Man (V1.02 English, French) | sman_102af.nv |  |  |
@@ -1999,9 +1999,9 @@ List of available and missing nvrams:
 | Spider-Man Vault Edition (V1.01) (Colored MOD) | smanve_101c.nv | YES       | ED209        |
 | Spider-Man Vault Edition (V1.01) | smanve_101.nv | YES       | ED209        |
 | Spirit of 76 | spirit76.nv |  |  |
-| Spirit | spirit.nv |  |  |
+| Spirit | spirit.nv | YES | gorgatron |
 | Split Second (Free Play) | splitsfp.nv |  |  |
-| Split Second | splitsec.nv |  |  |
+| Split Second | splitsec.nv | YES | gorgatron |
 | Spooky (Free Play) | spookyfp.nv |  |  |
 | Spooky (Italian Speech) | spookyi.nv |  |  |
 | Spooky (Italian Speech, Free Play) | spookifp.nv |  |  |
@@ -2014,27 +2014,27 @@ List of available and missing nvrams:
 | Spring Break (German) | sprbrkg.nv |  |  |
 | Spring Break (rev. 1 Free Play) | sprbrafp.nv |  |  |
 | Spring Break (rev. 1) | sprbrka.nv |  |  |
-| Spring Break (single ball game) | sprbrks.nv |  |  |
+| Spring Break (single ball game) | sprbrks.nv | YES | gorgatron |
 | Spring Break (single ball game, Free Play) | sprbrsfp.nv |  |  |
 | Spring Break | sprbreak.nv |  |  |
 | Spy Hunter (Free Play) | spyhunta.nv |  |  |
-| Spy Hunter | spyhuntr.nv |  |  |
+| Spy Hunter | spyhuntr.nv | YES | gorgatron |
 | Star Fire (alternate set) | starfira.nv |  |  |
 | Star Fire | starfire.nv |  |  |
 | Star Gazer (Free Play) | stargzfp.nv |  |  |
 | Star Gazer (modified rules rev. 9) | stargzrb.nv |  |  |
-| Star Gazer | stargzr.nv |  |  |
+| Star Gazer | stargzr.nv | YES | gorgatron |
 | Star God (alternate sound) | stargoda.nv |  |  |
 | Star God (alternate version) | stargodb.nv |  |  |
 | Star God | stargod.nv |  |  |
-| Star Light (L-1) | strlt_l1.nv |  |  |
-| Star Race (7-digit conversion) | starrac7.nv |  |  |
+| Star Light (L-1) | strlt_l1.nv | YES | gorgatron |
+| Star Race (7-digit conversion) | starrac7.nv | YES | gorgatron |
 | Star Race | starrace.nv |  |  |
 | Star Shooter | starshot.nv |  |  |
 | Star Trax (Domestic Prototype) | strax_p7.nv |  |  |
 | Star Trek (/10 Free Play) | startred.nv |  |  |
 | Star Trek (7-digit Free Play rev. 3) | startrec.nv |  |  |
-| Star Trek (7-digit conversion rev. 20) | startreb.nv |  |  |
+| Star Trek (7-digit conversion rev. 20) | startreb.nv | YES | gorgatron |
 | Star Trek (Stern) (V1.2) | st_120.nv |  |  |
 | Star Trek (Stern) (V1.3) | st_130.nv |  |  |
 | Star Trek (Stern) (V1.4) | st_140.nv |  |  |
@@ -2052,7 +2052,7 @@ List of available and missing nvrams:
 | Star Trek (Stern) Limited Edition (V1.61) (Colored MOD) | st_161hc.nv |  |  |
 | Star Trek (Stern) Limited Edition (V1.61) | st_161h.nv | YES | gorgatron    |
 | Star Trek (Stern) Limited Edition (V1.62) (Colored MOD) | st_162hc.nv |  |  |
-| Star Trek (Stern) Limited Edition (V1.62) | st_162h.nv |  |  |
+| Star Trek (Stern) Limited Edition (V1.62) | st_162h.nv | YES | gorgatron |
 | Star Trek 25th Anniversary (1.10 Alpha Display) | trek_11a.nv |  |  |
 | Star Trek 25th Anniversary (1.10) | trek_110.nv |  |  |
 | Star Trek 25th Anniversary (1.17) | trek_117.nv |  |  |
@@ -2095,7 +2095,7 @@ List of available and missing nvrams:
 | Star Wars (Sonic) | sonstwar.nv |  |  |
 | Star Wars (Sonic, alternate set) | sonstwr2.nv |  |  |
 | Star Wars Trilogy (4.01) | swtril41.nv |  |  |
-| Star Wars Trilogy (4.03) | swtril43.nv |  |  |
+| Star Wars Trilogy (4.03) | swtril43.nv | YES | gorgatron |
 | Star's Phoenix (French Speech) | strsphnf.nv |  |  |
 | Star's Phoenix (French Speech, Free Play) | strspffp.nv |  |  |
 | Star's Phoenix (Italian Speech) | strsphnx.nv |  |  |
@@ -2104,22 +2104,22 @@ List of available and missing nvrams:
 | Stargate (rev. 2) | stargat2.nv |  |  |
 | Stargate (rev. 3) | stargat3.nv |  |  |
 | Stargate (rev. 4) | stargat4.nv |  |  |
-| Stargate (rev. 5) | stargat5.nv |  |  |
+| Stargate (rev. 5) | stargat5.nv | YES | gorgatron |
 | Stargate | stargate.nv |  |  |
 | Stars & Strikes (Bowler) | monrobwl.nv |  |  |
 | Stars (Free Play) | starsfp.nv |  |  |
 | Stars | stars.nv |  |  |
 | Starship Troopers (2.00) | startrp2.nv |  |  |
 | Starship Troopers (2.01) | startrp.nv |  |  |
-| Stellar Wars (L-2) | stlwr_l2.nv |  |  |
+| Stellar Wars (L-2) | stlwr_l2.nv | YES | gorgatron |
 | Still Crazy (L-1) | scrzy_l1.nv |  |  |
 | Stingray (Free Play) | stingrfp.nv |  |  |
-| Stingray | stingray.nv |  |  |
+| Stingray | stingray.nv | YES | gorgatron |
 | Strange Science (German) | strngscg.nv |  |  |
 | Strange Science | strngsci.nv |  |  |
 | Street Fighter II (rev. 1) | sfight2a.nv |  |  |
 | Street Fighter II (rev. 2) | sfight2b.nv |  |  |
-| Street Fighter II | sfight2.nv |  |  |
+| Street Fighter II | sfight2.nv | YES | gorgatron |
 | Strike Master (D-4 LED Ghost Fix) | strik_d4.nv |  |  |
 | Strike Master (L-4) | strik_l4.nv |  |  |
 | Strike Zone (Shuffle) (L-2) | szone_l2.nv |  |  |
@@ -2131,7 +2131,7 @@ List of available and missing nvrams:
 | Striker Xtreme (1.02 French) | strxt_fr.nv |  |  |
 | Striker Xtreme (1.02 Italian) | strxt_it.nv |  |  |
 | Striker Xtreme (1.02 Spanish) | strxt_sp.nv |  |  |
-| Striker Xtreme (1.02) | strikext.nv |  |  |
+| Striker Xtreme (1.02) | strikext.nv | YES | gorgatron |
 | Striker Xtreme (1.03 German) | strxt_gr.nv |  |  |
 | Striker | striker.nv |  |  |
 | Strikes N' Spares (rev. 1) | snspare1.nv |  |  |
@@ -2139,24 +2139,24 @@ List of available and missing nvrams:
 | Strikes N' Spares (rev. 6) | snspares.nv |  |  |
 | Strikes and Spares (Free Play) | stk_sprb.nv |  |  |
 | Strikes and Spares (Free Play+) | stk_sprc.nv |  |  |
-| Strikes and Spares | stk_sprs.nv |  |  |
+| Strikes and Spares | stk_sprs.nv | YES | gorgatron |
 | Super Bowl (Free Play) | sprbwlfp.nv |  |  |
 | Super Bowl | suprbowl.nv |  |  |
 | Super Mario Bros. (rev. 1) | smb1.nv |  |  |
 | Super Mario Bros. (rev. 2) | smb2.nv |  |  |
 | Super Mario Bros. (rev. 3) | smb3.nv | YES | gorgatron    |
-| Super Mario Bros. Mushroom World | smbmush.nv |  |  |
+| Super Mario Bros. Mushroom World | smbmush.nv | YES | gorgatron |
 | Super Mario Bros. | smb.nv |  |  |
 | Super Nova | suprnova.nv |  |  |
-| Super Orbit | sorbit.nv |  |  |
+| Super Orbit | sorbit.nv | YES | gorgatron |
 | Super Picker | suprpick.nv |  |  |
 | Superman | superman.nv |  |  |
 | Supersonic (/10 Free Play) | sstd.nv |  |  |
 | Supersonic (7-digit Free Play rev. 3) | sstc.nv |  |  |
-| Supersonic (7-digit conversion rev. 20) | sstb.nv |  |  |
+| Supersonic (7-digit conversion rev. 20) | sstb.nv | YES | gorgatron |
 | Supersonic | sst.nv |  |  |
 | Sure Shot | sureshot.nv |  |  |
-| Surf 'n Safari | surfnsaf.nv |  |  |
+| Surf 'n Safari | surfnsaf.nv | YES | gorgatron |
 | Swords of Fury (L-1) | swrds_l1.nv |  |  |
 | Swords of Fury (L-2) | swrds_l2.nv | YES | gorgatron    |
 | System 1 'T' Test Fixture | sys1test.nv |  |  |
@@ -2180,12 +2180,12 @@ List of available and missing nvrams:
 | TX-Sector (French) | txsectrf.nv |  |  |
 | TX-Sector (German Free Play) | txsecgfp.nv |  |  |
 | TX-Sector (German) | txsectrg.nv |  |  |
-| TX-Sector | txsector.nv |  |  |
+| TX-Sector | txsector.nv | YES | gorgatron |
 | Tag-Team Pinball (Free Play) | tagtemfp.nv |  |  |
 | Tag-Team Pinball (German Free Play) | tagtmgfp.nv |  |  |
 | Tag-Team Pinball (German) | tagteamg.nv |  |  |
 | Tag-Team Pinball (rev. 2 Free Play) | tagtem2f.nv |  |  |
-| Tag-Team Pinball (rev. 2) | tagteam2.nv |  |  |
+| Tag-Team Pinball (rev. 2) | tagteam2.nv | YES | gorgatron |
 | Tag-Team Pinball | tagteam.nv |  |  |
 | Taito Test Fixture | taitest.nv |  |  |
 | Take Five | takefive.nv |  |  |
@@ -2209,11 +2209,11 @@ List of available and missing nvrams:
 | Taxi (Marilyn) (LU-1 Europe) | taxi_lu1.nv |  |  |
 | Taxi (P-5 Prototype) | taxi_p5.nv |  |  |
 | Tee'd Off (rev. 1) | teedoff1.nv |  |  |
-| Tee'd Off (rev. 3) | teedoff3.nv |  |  |
+| Tee'd Off (rev. 3) | teedoff3.nv | YES | gorgatron |
 | Tee'd Off | teedoff.nv |  |  |
 | Teenage Mutant Ninja Turtles (1.03) | tmnt_103.nv |  |  |
 | Teenage Mutant Ninja Turtles (1.04 German) | tmnt_104g.nv |  |  |
-| Teenage Mutant Ninja Turtles (1.04) | tmnt_104.nv |  |  |
+| Teenage Mutant Ninja Turtles (1.04) | tmnt_104.nv | YES | gorgatron |
 | Terminator 2: Judgement Day (D-2 LED Ghost Fix) | t2_d2.nv |  |  |
 | Terminator 2: Judgement Day (D-3 LED Ghost Fix) | t2_d3.nv |  |  |
 | Terminator 2: Judgement Day (D-4 LED Ghost Fix) | t2_d4.nv |  |  |
@@ -2269,12 +2269,12 @@ List of available and missing nvrams:
 | Ticket Tac Toe (1.0) | ttt_10.nv |  |  |
 | Tiger Rag | tigerrag.nv |  |  |
 | Time 2000 | time2000.nv |  |  |
-| Time Fantasy (L-5) | tmfnt_l5.nv |  |  |
+| Time Fantasy (L-5) | tmfnt_l5.nv | YES | gorgatron |
 | Time Line (7-digit conversion) | timelin7.nv |  |  |
-| Time Line | timeline.nv |  |  |
+| Time Line | timeline.nv | YES | gorgatron |
 | Time Machine (1.8 German) | tmac_g18.nv |  |  |
 | Time Machine (1.8) | tmac_a18.nv |  |  |
-| Time Machine (2.4) | tmac_a24.nv |  |  |
+| Time Machine (2.4) | tmac_a24.nv | YES | gorgatron |
 | Time Machine (LTD) (2 Players) | tmacltd2.nv |  |  |
 | Time Machine (LTD) (4 Players) | tmacltd4.nv |  |  |
 | Time Machine (Zaccaria) | tmachzac.nv |  |  |
@@ -2283,13 +2283,13 @@ List of available and missing nvrams:
 | Time Machine (Zaccaria, French Speech, Free Play) | tmacffp.nv |  |  |
 | Time Machine (Zaccaria, German Speech) | tmacgzac.nv |  |  |
 | Time Machine (Zaccaria, German Speech, Free Play) | tmacgfp.nv |  |  |
-| Time Warp (L-2) | tmwrp_l2.nv |  |  |
+| Time Warp (L-2) | tmwrp_l2.nv | YES | gorgatron |
 | Time Warp (L-3) | tmwrp_l3.nv |  |  |
 | Time Warp (T-2 Ted Estes) | tmwrp_t2.nv |  |  |
 | Titan (alternate set) | titan1.nv |  |  |
 | Titan | titan.nv |  |  |
 | Titanic (Coin Dropper) | titanic.nv |  |  |
-| Title Fight | tfight.nv |  |  |
+| Title Fight | tfight.nv | YES | gorgatron |
 | Tom & Jerry (Hollywood Heat unofficial MOD) | tomjerry.nv |  |  |
 | Tommy (1.02) | tomy_102.nv |  |  |
 | Tommy (3.00 Dutch) | tomy_h30.nv |  |  |
@@ -2311,7 +2311,7 @@ List of available and missing nvrams:
 | Transformers (V1.5) | tf_150.nv |  |  |
 | Transformers (V1.6) | tf_160.nv |  |  |
 | Transformers (V1.7) | tf_170.nv |  |  |
-| Transformers (V1.8) | tf_180.nv |  |  |
+| Transformers (V1.8) | tf_180.nv | YES | gorgatron |
 | Transformers Limited Edition (V0.88) | tf_088h.nv |  |  |
 | Transformers Limited Edition (V1.0) | tf_100h.nv |  |  |
 | Transformers Limited Edition (V1.2) | tf_120h.nv |  |  |
@@ -2319,9 +2319,9 @@ List of available and missing nvrams:
 | Transformers Limited Edition (V1.4) | tf_140h.nv |  |  |
 | Transformers Limited Edition (V1.5) | tf_150h.nv |  |  |
 | Transformers Limited Edition (V1.8) | tf_180h.nv |  |  |
-| Transporter the Rescue (L-3) | tsptr_l3.nv |  |  |
+| Transporter the Rescue (L-3) | tsptr_l3.nv | YES | gorgatron |
 | Trebol | trebol.nv |  |  |
-| Tri Zone (L-1) | trizn_l1.nv |  |  |
+| Tri Zone (L-1) | trizn_l1.nv | YES | gorgatron |
 | Tri Zone (T-1 Ted Estes) | trizn_t1.nv |  |  |
 | Trick Shooter | tricksht.nv |  |  |
 | Trident (MOD rev. 23c) | tridentb.nv |  |  |
@@ -2365,7 +2365,7 @@ List of available and missing nvrams:
 | Twilight Zone (PA-2 LED Ghost Fix) | tz_pa2.nv |  |  |
 | Twister (3.00) | twst_300.nv |  |  |
 | Twister (4.04) | twst_404.nv |  |  |
-| Twister (4.05) | twst_405.nv |  |  |
+| Twister (4.05) | twst_405.nv | YES | gorgatron |
 | U-Boat 65 | uboat65.nv |  |  |
 | U.S.A. Football (R01u) | usafoota.nv |  |  |
 | U.S.A. Football (R06u) | usafootb.nv |  |  |
@@ -2380,10 +2380,10 @@ List of available and missing nvrams:
 | Vector (modified rules rev. 10) | vectorc.nv |  |  |
 | Vector (modified rules rev. 4) | vector4.nv |  |  |
 | Vector (modified rules rev. 5) | vectorb.nv |  |  |
-| Vector | vector.nv |  |  |
+| Vector | vector.nv | YES | gorgatron |
 | Vegas (Game Plan) | vegasgp.nv |  |  |
 | Vegas (Taito) | vegast.nv |  |  |
-| Vegas | vegas.nv |  |  |
+| Vegas | vegas.nv | YES | gorgatron |
 | Verne's World | vrnwrld.nv |  |  |
 | Victory (Free Play) | victryfp.nv |  |  |
 | Victory (French Free Play) | victrffp.nv |  |  |
@@ -2391,24 +2391,24 @@ List of available and missing nvrams:
 | Victory (German Free Play) | victrgfp.nv |  |  |
 | Victory (German) | victoryg.nv |  |  |
 | Victory | victory.nv |  |  |
-| Viking (7-digit conversion) | vikingb.nv |  |  |
+| Viking (7-digit conversion) | vikingb.nv | YES | gorgatron |
 | Viking King | vikngkng.nv |  |  |
 | Viking | viking.nv |  |  |
 | Viper (Free Play) | viperfp.nv |  |  |
 | Viper Night Drivin' (1.02) | vipr_102.nv |  |  |
-| Viper Night Drivin' (2.01) | viprsega.nv |  |  |
-| Viper | viper.nv |  |  |
+| Viper Night Drivin' (2.01) | viprsega.nv | YES | gorgatron |
+| Viper | viper.nv | YES | gorgatron |
 | Volcano (7-digit conversion) | vlcno_a7.nv |  |  |
 | Volcano (Sound Only) | vlcno_1b.nv |  |  |
 | Volcano (Sound Only, 7-digit conversion) | vlcno_b7.nv |  |  |
 | Volcano (Sound Only, alternate version 2) | vlcno_1c.nv |  |  |
 | Volcano (Sound Only, alternate version) | vlcno_1a.nv |  |  |
-| Volcano | vlcno_ax.nv |  |  |
+| Volcano | vlcno_ax.nv | YES | gorgatron |
 | Volley | voleybal.nv |  |  |
 | Voltan Escapes Cosmic Doom (/10 Free Play) | voltand.nv |  |  |
 | Voltan Escapes Cosmic Doom (7-digit Free Play rev. 3) | voltanc.nv |  |  |
 | Voltan Escapes Cosmic Doom (7-digit conversion rev. 20) | voltanb.nv |  |  |
-| Voltan Escapes Cosmic Doom | voltan.nv |  |  |
+| Voltan Escapes Cosmic Doom | voltan.nv | YES | gorgatron |
 | Vortex | vortex.nv |  |  |
 | WHO Dunnit (0.3R Prototype) | wd_03r.nv |  |  |
 | WHO Dunnit (0.48R Prototype) | wd_048r.nv |  |  |
@@ -2417,7 +2417,7 @@ List of available and missing nvrams:
 | WHO Dunnit (1.0R) | wd_10r.nv |  |  |
 | WHO Dunnit (1.1) | wd_11.nv |  |  |
 | WHO Dunnit (1.2 German Sound) | wd_12g.nv |  |  |
-| WHO Dunnit (1.2) | wd_12.nv |  |  |
+| WHO Dunnit (1.2) | wd_12.nv | YES | gorgatron |
 | WPC Test Fixture: Alphanumeric (L-3) | tfa_13.nv |  |  |
 | WPC Test Fixture: DMD (L-3) | tfdmd_l3.nv |  |  |
 | WPC Test Fixture: Security (1.2) | tfs_12.nv |  |  |
@@ -2437,7 +2437,7 @@ List of available and missing nvrams:
 | Walking Dead, The (V1.56) (Colored MOD) | twd_156c.nv |  |  |
 | Walking Dead, The (V1.56) | twd_156.nv |  |  |
 | Walking Dead, The (V1.60.0) (Colored MOD) | twd_160c.nv |  |  |
-| Walking Dead, The (V1.60.0) | twd_160.nv |  |  |
+| Walking Dead, The (V1.60.0) | twd_160.nv | YES | gorgatron |
 | Walking Dead, The Limited Edition (V1.11) | twd_111h.nv |  |  |
 | Walking Dead, The Limited Edition (V1.19) | twd_119h.nv |  |  |
 | Walking Dead, The Limited Edition (V1.24) | twd_124h.nv |  |  |
@@ -2448,11 +2448,11 @@ List of available and missing nvrams:
 | Walking Dead, The Limited Edition (V1.56) (Colored MOD) | twd_156hc.nv |  |  |
 | Walking Dead, The Limited Edition (V1.56) | twd_156h.nv | YES       | Syd711       |
 | Walking Dead, The Limited Edition (V1.60.0) (Colored MOD) | twd_160hc.nv |  |  |
-| Walking Dead, The Limited Edition (V1.60.0) | twd_160h.nv |  |  |
+| Walking Dead, The Limited Edition (V1.60.0) | twd_160h.nv | YES | gorgatron |
 | Walkyria | walkyria.nv |  |  |
-| Warlok (L-3) | wrlok_l3.nv |  |  |
+| Warlok (L-3) | wrlok_l3.nv | YES | gorgatron |
 | Waterworld (rev. 2) | waterwl2.nv |  |  |
-| Waterworld (rev. 3) | waterwld.nv |  |  |
+| Waterworld (rev. 3) | waterwld.nv | YES | gorgatron |
 | Wheel of Fortune (V1.0) | wof_100.nv |  |  |
 | Wheel of Fortune (V2.0 French) | wof_200f.nv |  |  |
 | Wheel of Fortune (V2.0 German) | wof_200g.nv |  |  |
@@ -2500,14 +2500,14 @@ List of available and missing nvrams:
 | White Water (P-9 Prototype, Sound P-2 LED Ghost Fix) | ww_p9.nv |  |  |
 | Wild Texas | wldtexas.nv |  |  |
 | Wildfyre (Free Play) | wildfyfp.nv |  |  |
-| Wildfyre | wildfyre.nv |  |  |
+| Wildfyre | wildfyre.nv | YES | gorgatron |
 | Winter Sports | wsports.nv |  |  |
 | Wipe Out (rev. 2) | wipeout.nv | YES | gorgatron    |
 | Wolf Man | wolfman.nv |  |  |
 | World Challenge Soccer (display rev. 2) | wcsoccd2.nv |  |  |
-| World Challenge Soccer (rev. 1) | wcsoccer.nv |  |  |
+| World Challenge Soccer (rev. 1) | wcsoccer.nv | YES | gorgatron |
 | World Cup '90 | wcup90.nv |  |  |
-| World Cup (L-1) | wldcp_l1.nv |  |  |
+| World Cup (L-1) | wldcp_l1.nv | YES | gorgatron |
 | World Cup Soccer (DX-2 LED Ghost Fix) | wcs_d2.nv |  |  |
 | World Cup Soccer (FreeWPC 0.10) | wcs_f10.nv |  |  |
 | World Cup Soccer (FreeWPC 0.50) | wcs_f50.nv |  |  |
@@ -2567,14 +2567,14 @@ List of available and missing nvrams:
 | World Poker Tour (V14.0 German, French) | wpt_140gf.nv |  |  |
 | World Poker Tour (V14.0 Italian) | wpt_140i.nv |  |  |
 | World Poker Tour (V14.0 Spanish) | wpt_140l.nv |  |  |
-| World Poker Tour (V14.0) | wpt_140a.nv |  |  |
+| World Poker Tour (V14.0) | wpt_140a.nv | YES | gorgatron |
 | X Force | xforce.nv |  |  |
 | X's & O's (Free Play) | xsandosa.nv |  |  |
 | X's & O's | xsandos.nv |  |  |
 | X-Files, The (2.00) | xfiles20.nv |  |  |
 | X-Files, The (2.04) | xfiles2.nv |  |  |
 | X-Files, The (3.03 French) | xfilesf.nv |  |  |
-| X-Files, The (3.03) | xfiles.nv |  |  |
+| X-Files, The (3.03) | xfiles.nv | YES | gorgatron |
 | X-Men (V1.0) | xmn_100.nv |  |  |
 | X-Men (V1.04) | xmn_104.nv |  |  |
 | X-Men (V1.05) | xmn_105.nv |  |  |
@@ -2595,7 +2595,7 @@ List of available and missing nvrams:
 | Xenon (Free Play) | xenona.nv |  |  |
 | Xenon (French Free Play) | xenonfa.nv |  |  |
 | Xenon (French) | xenonf.nv |  |  |
-| Xenon | xenon.nv |  |  |
+| Xenon | xenon.nv | YES | gorgatron |
 | Zankor (Italian Speech) | zankor.nv |  |  |
 | Zankor (Italian Speech, Free Play) | zankorfp.nv |  |  |
 | Zarza (alternate set) | zarza1.nv |  |  |
