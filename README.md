@@ -2256,7 +2256,7 @@ List of available and missing nvrams:
 | Theatre of Magic (1.3X) | tom_13.nv |  |  |
 | Theatre of Magic (1.3XC Competition MOD) | tom_13c.nv |  |  |
 | Theatre of Magic (1.4H Coin Play) | tom_14hb.nv | YES       | Syd711       |
-| Theatre of Magic (1.4H) | tom_14h.nv |  |  |
+| Theatre of Magic (1.4H) | tom_14h.nv | YES | gorgatron |
 | Theatre of Magic (1.5C Competition MOD) | tom_15c.nv |  |  |
 | Third World | thrdwrld.nv |  |  |
 | Thunder Man | thndrman.nv |  |  |
