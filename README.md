@@ -427,7 +427,7 @@ List of available and missing nvrams:
 | Congo (1.3) | congo_13.nv |  |  |
 | Congo (2.0) | congo_20.nv |  |  |
 | Congo (2.1) | congo_21.nv | YES       | Syd711       |
-| Contact (L-1) | cntct_l1.nv |  |  |
+| Contact (L-1) | cntct_l1.nv | YES | gorgatron |
 | Continental (Bingo) | cntinntl.nv |  |  |
 | Continental (Bingo, alternate version) | cntintl2.nv |  |  |
 | Corsario (Free Play) | corsarfp.nv |  |  |
@@ -530,7 +530,7 @@ List of available and missing nvrams:
 | Dirty Harry (LX-2) | dh_lx2.nv | YES | gorgatron |
 | Disco '79 | disco79.nv |  |  |
 | Disco Dancing | discodan.nv |  |  |
-| Disco Fever (L-1) | disco_l1.nv |  |  |
+| Disco Fever (L-1) | disco_l1.nv | YES | gorgatron |
 | Dolly Parton (7-digit conversion) | dollyptb.nv | YES | gorgatron |
 | Dolly Parton | dollyptn.nv |  |  |
 | Dr. Dude (LA-2) | dd_l2.nv | YES | gorgatron    |
@@ -1201,7 +1201,7 @@ List of available and missing nvrams:
 | Lost in Space (1.01, Display 1.01) | lostspc1.nv |  |  |
 | Lost in Space (1.01, Display 1.02) | lostspc.nv | YES | gorgatron |
 | Lucky Draw | lckydraw.nv |  |  |
-| Lucky Seven (L-1) | lucky_l1.nv |  |  |
+| Lucky Seven (L-1) | lucky_l1.nv | YES | gorgatron |
 | Lunelle | lunelle.nv |  |  |
 | MAC Jungle (New version) | macjungn.nv |  |  |
 | MAC Jungle | macjungl.nv |  |  |
@@ -1498,7 +1498,7 @@ List of available and missing nvrams:
 | Phantom of the Opera, The (3.2) | poto_a32.nv | YES | gorgatron |
 | Pharaoh (L-2 Tomb Sound Fix MOD) | pharo_l2b.nv |  |  |
 | Pharaoh (L-2) | pharo_l2.nv | YES | gorgatron    |
-| Phoenix (L-1) | phnix_l1.nv |  |  |
+| Phoenix (L-1) | phnix_l1.nv | YES | gorgatron |
 | Pimbal (Pinball 3000) | pimbal.nv |  |  |
 | Pin-Ball | sleicpin.nv |  |  |
 | Pin-Bot (L-1) | pb_l1.nv |  |  |
@@ -1588,7 +1588,7 @@ List of available and missing nvrams:
 | Playboy (Stern, 5.00) | playboys.nv |  |  |
 | Playboy 35th Anniversary (2.4) | play_a24.nv |  |  |
 | Playboy | playboy.nv |  |  |
-| Pokerino (L-1) | pkrno_l1.nv |  |  |
+| Pokerino (L-1) | pkrno_l1.nv | YES | gorgatron |
 | Polar Explorer | polar.nv |  |  |
 | Pole Position (Sonic) | poleposn.nv |  |  |
 | Police Force (LA-2) | polic_l2.nv |  |  |
@@ -2256,7 +2256,7 @@ List of available and missing nvrams:
 | Theatre of Magic (1.3X) | tom_13.nv |  |  |
 | Theatre of Magic (1.3XC Competition MOD) | tom_13c.nv |  |  |
 | Theatre of Magic (1.4H Coin Play) | tom_14hb.nv | YES       | Syd711       |
-| Theatre of Magic (1.4H) | tom_14h.nv |  |  |
+| Theatre of Magic (1.4H) | tom_14h.nv | YES | gorgatron |
 | Theatre of Magic (1.5C Competition MOD) | tom_15c.nv |  |  |
 | Third World | thrdwrld.nv |  |  |
 | Thunder Man | thndrman.nv |  |  |

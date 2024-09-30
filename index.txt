@@ -60,6 +60,7 @@ cv_20h
 clas1812
 comet_l5
 congo_21
+cntct_l1
 corv_21
 csmic_l1
 princess
@@ -75,6 +76,7 @@ dvlsdre
 diamond
 diner_l4
 dh_lx2
+disco_l1
 dollyptb
 dd_l2
 dw_l2
@@ -167,6 +169,7 @@ lotr
 jplstw22
 lostwrld
 lostspc
+lucky_l1
 bop_l7
 magicfp
 andretti
@@ -199,11 +202,13 @@ paragon
 pz_f4
 poto_a32
 pharo_l2
+phnix_l1
 pb_l5
 pmv112
 pnkpnthr
 potc_600as
 pstlpkr
+pkrno_l1
 polic_l4
 pool_l7
 pop_lx5
@@ -292,6 +297,7 @@ tmnt_104
 t2_l8
 term3
 tom_14hb
+tom_14h
 tmfnt_l5
 timeline
 tmac_a24
