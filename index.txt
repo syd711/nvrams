@@ -230,6 +230,7 @@ rctycn
 rollr_l2
 rsn_110h
 rflshdlx
+sc_18n11
 ss_15
 scrpn_l1
 seawitfp

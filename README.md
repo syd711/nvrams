@@ -1775,7 +1775,7 @@ List of available and missing nvrams:
 | Safe Cracker (1.7) | sc_17.nv |  |  |
 | Safe Cracker (1.8 No Percentaging, German Sound S2.4) | sc_18ns2.nv |  |  |
 | Safe Cracker (1.8 No Percentaging, Sound S1.0) | sc_18n.nv |  |  |
-| Safe Cracker (1.8 No Percentaging, Sound S1.1) | sc_18n11.nv |  |  |
+| Safe Cracker (1.8 No Percentaging, Sound S1.1) | sc_18n11.nv | YES | DoXer |
 | Safe Cracker (1.8 Pinball FX, Sound S1.0) | sc_18pfx.nv |  |  |
 | Safe Cracker (1.8, German Sound S2.4) | sc_18s2.nv |  |  |
 | Safe Cracker (1.8, Sound S1.0) | sc_18.nv |  |  |
