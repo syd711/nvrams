@@ -175,6 +175,7 @@ magicfp
 andretti
 mars
 mav_402
+mm_10
 mm_109c
 medusa
 memlane
@@ -238,6 +239,7 @@ seawitch
 ssvc_a26
 ts_lx5
 shaqatt2
+shrkysht
 shr_141
 silvslug
 slbmanib
@@ -276,6 +278,7 @@ sttng_l7
 stwr_107
 swtril43
 stargat5
+startrp2
 stlwr_l2
 stingray
 sfight2
