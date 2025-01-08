@@ -271,6 +271,7 @@ stargzr
 strlt_l1
 starrac7
 startreb
+st_161hc
 st_161h
 st_162h
 trek_201

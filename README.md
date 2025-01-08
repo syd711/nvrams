@@ -2124,7 +2124,7 @@ List of available and missing nvrams:
 | Star Trek (Stern) Limited Edition (V1.42) | st_142h.nv |  |  |
 | Star Trek (Stern) Limited Edition (V1.5) | st_150h.nv |  |  |
 | Star Trek (Stern) Limited Edition (V1.6) | st_160h.nv |  |  |
-| Star Trek (Stern) Limited Edition (V1.61) (Colored MOD) | st_161hc.nv |  |  |
+| Star Trek (Stern) Limited Edition (V1.61) (Colored MOD) | st_161hc.nv | YES | gorgatron |
 | Star Trek (Stern) Limited Edition (V1.61) | st_161h.nv | YES | gorgatron    |
 | Star Trek (Stern) Limited Edition (V1.62) (Colored MOD) | st_162hc.nv |  |  |
 | Star Trek (Stern) Limited Edition (V1.62) | st_162h.nv | YES | gorgatron |
