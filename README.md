@@ -2510,7 +2510,7 @@ List of available and missing nvrams:
 | WPC Test Fixture: WPC-95 (1.2) | tf95_12.nv |  |  |
 | WWF Royal Rumble (1.03 French) | wwfr_103f.nv |  |  |
 | WWF Royal Rumble (1.03) | wwfr_103.nv | YES | gorgatron    |
-| WWF Royal Rumble (1.06) | wwfr_106.nv |  |  |
+| WWF Royal Rumble (1.06) | wwfr_106.nv | YES | Buffdriver |
 | Wack-A-Doodle-Doo (Redemption) | wackadoo.nv |  |  |
 | Walking Dead, The (V1.05) | twd_105.nv |  |  |
 | Walking Dead, The (V1.11) | twd_111.nv |  |  |
