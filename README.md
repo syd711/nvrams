@@ -237,7 +237,7 @@ List of available and missing nvrams:
 | Baywatch (4.00) | baywatch.nv | YES | gorgatron    |
 | Baywatch (4.01 unofficial MOD) | bay_401.nv |  |  |
 | Beach Bums (Hollywood Heat unofficial MOD) | beachbms.nv |  |  |
-| Beat the Clock (with flasher support) | beatclc2.nv |  |  |
+| Beat the Clock (with flasher support) | beatclc2.nv | YES | Buffdriver |
 | Beat the Clock | beatclck.nv |  |  |
 | Bell Ringer | bellring.nv |  |  |
 | Big Ball Bowling (Bowler) | bbbowlin.nv |  |  |
@@ -591,7 +591,7 @@ List of available and missing nvrams:
 | Eight Ball (Old/Tilt Bug) | eightblo.nv |  |  |
 | Eight Ball Champ (Cheap Squeek) | eballch2.nv |  |  |
 | Eight Ball Champ (Maibesa) | ebalchmb.nv |  |  |
-| Eight Ball Champ | eballchp.nv |  |  |
+| Eight Ball Champ | eballchp.nv | YES | Buffdriver |
 | Eight Ball Deluxe (Free Play) | eballdla.nv |  |  |
 | Eight Ball Deluxe (P2/4 Bonus Bugfix) | eballdld.nv |  |  |
 | Eight Ball Deluxe (Prototype rev. 1) | eballdp1.nv |  |  |

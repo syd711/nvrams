@@ -28,6 +28,7 @@ btmn_106
 batmanf
 bdk_294
 baywatch
+beatclc2
 bbb109
 bbh_170
 bguns_l8
@@ -83,6 +84,7 @@ dw_l2
 dragon
 esha_la3
 eclipse
+eballchp
 eballdlx
 eldorado
 elektra
