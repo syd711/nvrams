@@ -2415,7 +2415,7 @@ List of available and missing nvrams:
 | Trident | trident.nv |  |  |
 | Triple Strike (Shuffle) (L-1) | tstrk_l1.nv |  |  |
 | Truck Stop (P-2 Prototype) | trucksp2.nv |  |  |
-| Truck Stop (P-3 Prototype) | trucksp3.nv |  |  |
+| Truck Stop (P-3 Prototype) | trucksp3.nv | YES | Gorgatron |
 | Twilight Zone (9.2) | tz_92.nv |  |  |
 | Twilight Zone (9.3 LED Ghost Fix) | tz_93.nv |  |  |
 | Twilight Zone (9.4CH Coin Play) | tz_94ch.nv |  |  |

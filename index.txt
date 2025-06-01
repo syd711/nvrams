@@ -314,6 +314,7 @@ tomy_500
 tf_180
 tsptr_l3
 trizn_l1
+trucksp3
 tz_94h
 twst_405
 vector
