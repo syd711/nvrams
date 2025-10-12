@@ -1296,7 +1296,7 @@ List of available and missing nvrams:
 | Medieval Madness (1.0 Ultrapin) | mm_10u.nv |  |  |
 | Medieval Madness (1.0) | mm_10.nv | YES | gorgatron |
 | Medieval Madness (1.09) | mm_109.nv |  |  |
-| Medieval Madness (1.09B) | mm_109b.nv |  |  |
+| Medieval Madness (1.09B) | mm_109b.nv | YES | Gorgatron |
 | Medieval Madness (1.09C Profanity) | mm_109c.nv | YES | gorgatron    |
 | Medusa (Free Play) | medusaa.nv |  |  |
 | Medusa | medusa.nv | YES | gorgatron |
