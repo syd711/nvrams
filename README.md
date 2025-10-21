@@ -44,7 +44,7 @@ List of available and missing nvrams:
 | AC/DC Limited Edition (V1.65) | acd_165h.nv |  |  |
 | AC/DC Limited Edition (V1.68) (Colored MOD) | acd_168hc.nv |  |  |
 | AC/DC Limited Edition (V1.68) | acd_168h.nv |  |  |
-| AC/DC Limited Edition (V1.70.0) (Colored MOD) | acd_170hc.nv |  |  |
+| AC/DC Limited Edition (V1.70.0) (Colored MOD) | acd_170hc.nv | YES | Gorgatron |
 | AC/DC Limited Edition (V1.70.0) | acd_170h.nv | YES | gorgatron    |
 | Aaron Spelling (1.01) | aar_101.nv |  |  |
 | Addams Family Special Collectors Edition Gold, The (LX-3) | tafg_lx3.nv |  |  |
